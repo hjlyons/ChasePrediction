@@ -2075,7 +2075,7 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 28/03/2014,P2,Steve,"£9,000",Mark Labbett,"£1,000","£40,000","£9,000 =",Home +3,5 (team 3),Chaser by 0:12,£0,C,7,False
 28/03/2014,P3,Cheryl,"£5,000",Mark Labbett,£500,"£40,000","£5,000 =",Home +2,6 (team 3),Chaser by 0:12,£0,C,7,False
 28/03/2014,P4,Peter,"£7,000",Mark Labbett,"-£2,000","£42,000","£7,000 =",Caught -1,,Chaser by 0:12,£0,,7,False
-31/03/2014,P1,Shelley,"£5,000",Shaun Wallace,"£1,000","£26,000","£50,000 =",Caught -1,,Chaser by 0:58,£0,,7,False
+31/03/2014,P1,Shelley,"£5,000",Shaun Wallace,"£1,000","£26,000","£5,000 =",Caught -1,,Chaser by 0:58,£0,,7,False
 31/03/2014,P2,Andy,"£3,000",Shaun Wallace,£300,"£30,000","£30,000 /\",Home +4,8 (team 2),Chaser by 0:58,£0,C,7,False
 31/03/2014,P3,Sue,"£4,000",Shaun Wallace,"-£2,000","£40,000","£4,000 =",Caught -2,,Chaser by 0:58,£0,,7,False
 31/03/2014,P4,Scott,"£4,000",Shaun Wallace,"-£4,000","£50,000","£4,000 =",Home +2,2 (team 2),Chaser by 0:58,£0,C,7,False
@@ -4060,7 +4060,7 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 04/01/2017,P3,Narmy,"£3,000",Anne Hegerty,"-£5,000","£35,000","£3,000 =",Caught -5,,Team by 3,£0,,10,False
 04/01/2017,P4,Henri,"£6,000",Anne Hegerty,"-£10,000","£65,000","£6,000 =",Home +2,3 (team 3),Team by 3,"£20,333",T,10,False
 05/01/2017,P1,Linda,"£6,000",Paul Sinha,"£1,000","£28,000","£6,000 =",Home +1,4 (team 2),Chaser by 1:02,£0,C,10,False
-05/01/2017,P2,Andy,"£3,000",Paul Sinha,"£3,000","£30,000","£3,000 =",Caught -1,,Chaser by 1:02,£0,,10,False
+05/01/2017,P2,Andy,"£3,000",Paul Sinha,£300,"£30,000","£3,000 =",Caught -1,,Chaser by 1:02,£0,,10,False
 05/01/2017,P3,Georgia,"£4,000",Paul Sinha,"£1,000","£40,000","£4,000 =",Home +3,5 (team 2),Chaser by 1:02,£0,C,10,False
 05/01/2017,P4,Frank,"£2,000",Paul Sinha,"-£1,000","£50,000","£50,000 /\",Caught -2,,Chaser by 1:02,£0,,10,False
 06/01/2017,P1,Bill,"£2,000",Shaun Wallace,£2,"£20,000","£2,000 =",Caught -3,,Team by 2,£0,,10,False
@@ -5926,7 +5926,7 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 09/10/2019,P1,Craig,"£8,000",Jenny Ryan,"£2,000","£30,000","£8,000 =",Home +2,7 (team 4),Chaser by 0:15,£0,C,13,False
 09/10/2019,P2,Bex,"£4,000",Jenny Ryan,"£1,000","£30,000","£4,000 =",Home +4,5 (team 4),Chaser by 0:15,£0,C,13,False
 09/10/2019,P3,Cory,"£4,000",Jenny Ryan,"-£1,000","£40,000","£4,000 =",Home +3,2 (team 4),Chaser by 0:15,£0,C,13,False
-09/10/2019,P4,Wendy,"£5,000",Jenny Ryan,"-£2,000","£54,000","£5,000 \/",Home +4,0 (team 4),Chaser by 0:15,£0,C,13,False
+09/10/2019,P4,Wendy,"£5,000",Jenny Ryan,"-£2,000","£54,000","-£2,000 \/",Home +4,0 (team 4),Chaser by 0:15,£0,C,13,False
 10/10/2019,P1,Andrew,"£5,000",Shaun Wallace,"£1,000","£25,000","£5,000 =",Home +3,4 (team 3),Chaser by 0:42,£0,C,13,False
 10/10/2019,P2,Arv,"£6,000",Shaun Wallace,£600,"£30,000","£6,000 =",Home +1,3 (team 3),Chaser by 0:42,£0,C,13,False
 10/10/2019,P3,Poppy,"£6,000",Shaun Wallace,"-£2,000","£36,000","£6,000 =",Home +2,4 (team 3),Chaser by 0:42,£0,C,13,False
@@ -6563,6 +6563,10 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 12/01/2022,P2,Rachel,"£4,000",Jenny Ryan,"£1,000","£32,000","£4,000 =",Caught -4,,Chaser by 0:52,£0,,13,False
 12/01/2022,P3,Mark,"£5,000",Jenny Ryan,"£1,000","£40,000","£5,000 =",Home +2,3 (team 2),Chaser by 0:52,£0,C,13,False
 12/01/2022,P4,Jinni,"£2,000",Jenny Ryan,"£1,000","£65,000","£1,000 \/",Home +3,7 (team 2),Chaser by 0:52,£0,C,13,False
+04/10/2022,P1,Steve,"£4,000",Darragh Ennis,"£1,000","£30,000","£4,000 =",Home +2,4 (team 4),Chaser by 0:12,£0,C,13,False
+04/10/2022,P2,Simon,"£6,000",Darragh Ennis,"£1,000","£46,000","£6,000 =",Home +3,2 (team 4),Chaser by 0:12,£0,C,13,False
+04/10/2022,P3,Kelly,"£3,000",Darragh Ennis,"£1,000","£50,000","£1,000 \/",Home +3,4 (team 4),Chaser by 0:12,£0,C,13,False
+04/10/2022,P4,Donna,"£4,000",Darragh Ennis,"-£1,000","£69,000","£4,000 =",Home +3,3 (team 4),Chaser by 0:12,£0,C,13,False
 04/11/2020,P1,Nathan,"£8,000",Shaun Wallace,"£2,000","£30,000","£8,000 =",Home +2,2 (team 3),Chaser by 0:17,£0,C,14,False
 04/11/2020,P2,Victoria,"£5,000",Shaun Wallace,"£1,000","£40,000","£5,000 =",Home +2,1 (team 3),Chaser by 0:17,£0,C,14,False
 04/11/2020,P3,Rich,"£5,000",Shaun Wallace,"-£2,000","£50,000","£5,000 =",Caught -3,,Chaser by 0:17,£0,,14,False
@@ -7387,6 +7391,22 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 11/05/2022,P2,Amy,"£9,000",Anne Hegerty,"£2,000","£40,000","£9,000 =",Home +2,7 (team 4),Team by 11,"£7,000",T,14,False
 11/05/2022,P3,Jean,"£6,000",Anne Hegerty,"-£3,000","£36,000","£6,000 =",Home +3,2 (team 4),Team by 11,"£7,000",T,14,False
 11/05/2022,P4,Success,"£7,000",Anne Hegerty,"-£5,000","£59,000","£7,000 =",Home +2,0 (team 4),Team by 11,"£7,000",T,14,False
+19/10/2022,P1,Ross,"£2,000",Shaun Wallace,£200,"£22,000","£22,000 /\",Home +2,6 (team 2),Chaser by 0:04,£0,C,14,False
+19/10/2022,P2,Kate,"£5,000",Shaun Wallace,"£1,000","£27,000","£1,000 \/",Home +1,7 (team 2),Chaser by 0:04,£0,C,14,False
+19/10/2022,P3,Campbell,"£5,000",Shaun Wallace,"-£5,000","£35,000","£5,000 =",Caught -3,,Chaser by 0:04,£0,,14,False
+19/10/2022,P4,Naomi,"£7,000",Shaun Wallace,"-£8,000","£43,000","£43,000 /\",Caught -4,,Chaser by 0:04,£0,,14,False
+02/11/2022,P1,Jez,"£5,000",Paul Sinha,£500,"£25,000","£5,000 =",Home +4,14 (solo),Chaser by 0:27,£0,C,14,False
+02/11/2022,P2,Lydia,"£5,000",Paul Sinha,"£1,000","£30,000","£5,000 =",Caught -3,,Chaser by 0:27,£0,,14,False
+02/11/2022,P3,Kai,"£6,000",Paul Sinha,£600,"£40,000","£6,000 =",Caught -1,,Chaser by 0:27,£0,,14,False
+02/11/2022,P4,Hayley,"£4,000",Paul Sinha,"-£1,000","£55,000","£55,000 /\",Caught -5,,Chaser by 0:27,£0,,14,False
+28/12/2022,P1,Alexa,"£4,000",Jenny Ryan,"£1,000","£25,000","£4,000 =",Caught -3,,Chaser by 0:22,£0,,14,False
+28/12/2022,P2,Steph,"£4,000",Jenny Ryan,"£1,000","£35,000","£4,000 =",Home +2,3 (team 3),Chaser by 0:22,£0,C,14,False
+28/12/2022,P3,Aaron,"£2,000",Jenny Ryan,"£1,000","£50,000","£1,000 \/",Home +1,3 (team 3),Chaser by 0:22,£0,C,14,False
+28/12/2022,P4,Michael,"£5,000",Jenny Ryan,"£1,000","£70,000","£5,000 =",Home +2,7 (team 3),Chaser by 0:22,£0,C,14,False
+30/12/2022,P1,Leoni,"£3,000",Anne Hegerty,£300,"£20,000","£3,000 =",Home +3,2 (team 4),Team by 2,"£6,000",T,14,False
+30/12/2022,P2,Ian,"£7,000",Anne Hegerty,"£1,000","£27,000","£7,000 =",Home +4,2 (team 4),Team by 2,"£6,000",T,14,False
+30/12/2022,P3,Chris,"£7,000",Anne Hegerty,"-£1,000","£35,000","£7,000 =",Home +3,10 (team 4),Team by 2,"£6,000",T,14,False
+30/12/2022,P4,Hilary,"£7,000",Anne Hegerty,"-£5,000","£63,000","£7,000 =",Home +2,2 (team 4),Team by 2,"£6,000",T,14,False
 27/01/2022,P1,Victoria,"£6,000",Shaun Wallace,£600,"£22,000","£6,000 =",Home +3,1 (team 4),Chaser by 0:15,£0,C,15,False
 27/01/2022,P2,Emma,"£6,000",Shaun Wallace,"£1,000","£30,000","£6,000 =",Home +2,3 (team 4),Chaser by 0:15,£0,C,15,False
 27/01/2022,P3,Connor,"£6,000",Shaun Wallace,"£1,000","£36,000","£1,000 \/",Home +2,2 (team 4),Chaser by 0:15,£0,C,15,False
@@ -7551,6 +7571,498 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 02/09/2022,P2,Victoria,"£4,000",Darragh Ennis,"£1,000","£32,000","£4,000 =",Caught -2,,Chaser by 0:50,£0,,15,False
 02/09/2022,P3,Tam,"£4,000",Darragh Ennis,"£1,000","£44,000","£44,000 /\",Caught -3,,Chaser by 0:50,£0,,15,False
 02/09/2022,P4,Kathleen,"£3,000",Darragh Ennis,"£1,000","£76,000","£1,000 \/",Caught -2,,Chaser by 0:50,£0,,15,False
+05/09/2022,P1,Gillian,"£5,000",Mark Labbett,£500,"£22,000","£5,000 =",Caught -1,,Chaser by 0:28,£0,,15,False
+05/09/2022,P2,Spencer,"£7,000",Mark Labbett,"£2,000","£30,000","£7,000 =",Caught -2,,Chaser by 0:28,£0,,15,False
+05/09/2022,P3,Emma,"£7,000",Mark Labbett,"£1,000","£40,000","£7,000 =",Home +3,8 (team 2),Chaser by 0:28,£0,C,15,False
+05/09/2022,P4,Wayne,"£5,000",Mark Labbett,"-£1,000","£53,000","£5,000 =",Home +2,6 (team 2),Chaser by 0:28,£0,C,15,False
+06/09/2022,P1,Fee,"£7,000",Darragh Ennis,£700,"£28,000","£7,000 =",Home +4,1 (team 4),Team by 8,"£5,500",T,15,False
+06/09/2022,P2,Tom,"£7,000",Darragh Ennis,"£1,000","£35,000","£7,000 =",Home +1,5 (team 4),Team by 8,"£5,500",T,15,False
+06/09/2022,P3,Adie,"£4,000",Darragh Ennis,£400,"£40,000","£4,000 =",Home +3,2 (team 4),Team by 8,"£5,500",T,15,False
+06/09/2022,P4,Dean,"£4,000",Darragh Ennis,"-£2,000","£62,000","£4,000 =",Home +3,7 (team 4),Team by 8,"£5,500",T,15,False
+07/09/2022,P1,Barbara,"£8,000",Anne Hegerty,"£2,000","£40,000","£8,000 =",Home +3,3 (team 2),Chaser by 0:29,£0,C,15,False
+07/09/2022,P2,Ben,"£6,000",Anne Hegerty,"£1,000","£52,000","£6,000 =",Home +1,10 (team 2),Chaser by 0:29,£0,C,15,False
+07/09/2022,P3,Lauren,"£4,000",Anne Hegerty,"£1,000","£65,000","£4,000 =",Caught -5,,Chaser by 0:29,£0,,15,False
+07/09/2022,P4,Scott,"£6,000",Anne Hegerty,"-£2,000","£76,000","£6,000 =",Caught -2,,Chaser by 0:29,£0,,15,False
+20/09/2022,P1,Adrian (Beef),"£4,000",Anne Hegerty,£400,"£24,000","£4,000 =",Home +3,2 (team 3),Chaser by 0:35,£0,C,15,False
+20/09/2022,P2,Laura,"£4,000",Anne Hegerty,"£1,000","£34,000","£1,000 \/",Home +4,6 (team 3),Chaser by 0:35,£0,C,15,False
+20/09/2022,P3,Dan,"£4,000",Anne Hegerty,"£1,000","£44,000","£44,000 /\",Caught -4,,Chaser by 0:35,£0,,15,False
+20/09/2022,P4,Mary,"£8,000",Anne Hegerty,"£1,000","£61,000","£8,000 =",Home +1,5 (team 3),Chaser by 0:35,£0,C,15,False
+21/09/2022,P1,Tim,"£8,000",Jenny Ryan,"£2,000","£30,000","£8,000 =",Home +3,4 (team 3),Chaser by 0:30,£0,C,15,False
+21/09/2022,P2,Emma,"£5,000",Jenny Ryan,"£1,000","£42,000","£5,000 =",Caught -4,,Chaser by 0:30,£0,,15,False
+21/09/2022,P3,Chris,"£5,000",Jenny Ryan,"£1,000","£55,000","£5,000 =",Home +3,5 (team 3),Chaser by 0:30,£0,C,15,False
+21/09/2022,P4,Georgia,"£7,000",Jenny Ryan,"-£1,000","£77,000","£7,000 =",Home +3,7 (team 3),Chaser by 0:30,£0,C,15,False
+22/09/2022,P1,Karina,"£5,000",Mark Labbett,"£1,000","£25,000","£5,000 =",Caught -2,,Chaser by 0:41,£0,,15,False
+22/09/2022,P2,Susan,"£6,000",Mark Labbett,"£1,000","£33,000","£6,000 =",Home +3,8 (team 2),Chaser by 0:41,£0,C,15,False
+22/09/2022,P3,Jacob,"£6,000",Mark Labbett,"£1,000","£50,000","£1,000 \/",Home +4,3 (team 2),Chaser by 0:41,£0,C,15,False
+22/09/2022,P4,Paul,"£7,000",Mark Labbett,"-£1,000","£63,000","£63,000 /\",Caught -3,,Chaser by 0:41,£0,,15,False
+23/09/2022,P1,Henrik,"£6,000",Darragh Ennis,£600,"£26,000","£6,000 =",Home +1,3 (team 2),Chaser by 1:13,£0,C,15,False
+23/09/2022,P2,Cassie,"£4,000",Darragh Ennis,"£1,000","£34,000","£4,000 =",Home +2,5 (team 2),Chaser by 1:13,£0,C,15,False
+23/09/2022,P3,Angie,"£3,000",Darragh Ennis,"-£1,000","£40,000","£3,000 =",Caught -1,,Chaser by 1:13,£0,,15,False
+23/09/2022,P4,Ryan,"£6,000",Darragh Ennis,"-£2,000","£56,000","£6,000 =",Caught -4,,Chaser by 1:13,£0,,15,False
+26/09/2022,P1,David,"£7,000",Darragh Ennis,£700,"£27,000","£7,000 =",Home +1,4 (team 3),Chaser by 0:02,£0,C,15,False
+26/09/2022,P2,Christine,"£3,000",Darragh Ennis,"£1,000","£35,000","£3,000 =",Caught -4,,Chaser by 0:02,£0,,15,False
+26/09/2022,P3,Aaron,"£3,000",Darragh Ennis,"£1,000","£40,000","£3,000 =",Home +1,8 (team 3),Chaser by 0:02,£0,C,15,False
+26/09/2022,P4,Rachel,"£4,000",Darragh Ennis,"-£1,000","£50,000","£4,000 =",Home +1,3 (team 3),Chaser by 0:02,£0,C,15,False
+27/09/2022,P1,Kahlum,"£3,000",Shaun Wallace,£500,"£25,000","£3,000 =",Home +5,1 (team 2),Chaser by 0:51,£0,C,15,False
+27/09/2022,P2,Izzy,"£5,000",Shaun Wallace,"£1,000","£32,000","£5,000 =",Home +3,10 (team 2),Chaser by 0:51,£0,C,15,False
+27/09/2022,P3,James,"£3,000",Shaun Wallace,£300,"£40,000","£3,000 =",Caught -1,,Chaser by 0:51,£0,,15,False
+27/09/2022,P4,Janet,"£2,000",Shaun Wallace,"-£2,000","£67,000","£2,000 =",Caught -2,,Chaser by 0:51,£0,,15,False
+28/09/2022,P1,Stan,"£7,000",Paul Sinha,"£1,000","£30,000","£7,000 =",Home +2,4 (team 3),Team by 6,"£4,000",T,15,False
+28/09/2022,P2,Joe,"£6,000",Paul Sinha,"£1,000","£42,000","£6,000 =",Home +3,6 (team 3),Team by 6,"£4,000",T,15,False
+28/09/2022,P3,Prathi,"£2,000",Paul Sinha,£500,"£45,000",£500 \/,Caught -2,,Team by 6,£0,,15,False
+28/09/2022,P4,June,"£4,000",Paul Sinha,"-£1,000","£62,000","-£1,000 \/",Home +4,7 (team 3),Team by 6,"£4,000",T,15,False
+29/09/2022,P1,Dee,"£7,000",Anne Hegerty,"£2,000","£30,000","£7,000 =",Home +1,7 (team 3),Chaser by 0:08,£0,C,15,False
+29/09/2022,P2,Owen,"£4,000",Anne Hegerty,"£1,000","£40,000","£4,000 =",Home +1,2 (team 3),Chaser by 0:08,£0,C,15,False
+29/09/2022,P3,Lorraine,"£10,000",Anne Hegerty,"-£2,000","£59,000","£10,000 =",Caught -1,,Chaser by 0:08,£0,,15,False
+29/09/2022,P4,Andrew,"£7,000",Anne Hegerty,"-£3,000","£79,000","£7,000 =",Home +1,6 (team 3),Chaser by 0:08,£0,C,15,False
+30/09/2022,P1,Suzi,"£3,000",Mark Labbett,£300,"£20,000",£300 \/,Caught -2,,Chaser by 0:28,£0,,15,False
+30/09/2022,P2,Kimia,"£7,000",Mark Labbett,"£2,000","£40,000","£7,000 =",Home +1,5 (team 2),Chaser by 0:28,£0,C,15,False
+30/09/2022,P3,Felix,"£6,000",Mark Labbett,"£1,000","£50,000","£6,000 =",Home +2,7 (team 2),Chaser by 0:28,£0,C,15,False
+30/09/2022,P4,Craig,"£1,000",Mark Labbett,"-£1,000","£62,000","£62,000 /\",Caught -1,,Chaser by 0:28,£0,,15,False
+03/10/2022,P1,John,"£8,000",Paul Sinha,"£2,000","£28,000","£8,000 =",Home +3,9 (team 2),Chaser by 0:20,£0,C,15,False
+03/10/2022,P2,Dan,"£5,000",Paul Sinha,"£1,000","£32,000","£5,000 =",Caught -1,,Chaser by 0:20,£0,,15,False
+03/10/2022,P3,Zuby,"£4,000",Paul Sinha,"£1,000","£40,000","£4,000 =",Home +3,4 (team 2),Chaser by 0:20,£0,C,15,False
+03/10/2022,P4,Alayne,"£5,000",Paul Sinha,"-£3,000","£63,000","£5,000 =",Caught -1,,Chaser by 0:20,£0,,15,False
+05/10/2022,P1,Nav,"£2,000",Anne Hegerty,£200,"£22,000","£2,000 =",Home +1,4 (team 3),Team by 2,"£4,333",T,15,False
+05/10/2022,P2,Andrea,"£7,000",Anne Hegerty,"£2,000","£32,000","£7,000 =",Home +2,8 (team 3),Team by 2,"£4,333",T,15,False
+05/10/2022,P3,Tom,"£6,000",Anne Hegerty,"£1,000","£45,000","£6,000 =",Caught -2,,Team by 2,£0,,15,False
+05/10/2022,P4,Karen,"£4,000",Anne Hegerty,"-£3,000","£66,000","£4,000 =",Home +2,4 (team 3),Team by 2,"£4,333",T,15,False
+06/10/2022,P1,Christine,"£7,000",Jenny Ryan,"£2,000","£35,000","£7,000 =",Home +1,13 (solo),Chaser by 0:53,£0,C,15,False
+06/10/2022,P2,Jonathan,"£3,000",Jenny Ryan,"£1,000","£40,000","£3,000 =",Caught -3,,Chaser by 0:53,£0,,15,False
+06/10/2022,P3,Sonali,"£7,000",Jenny Ryan,"£1,000","£53,000","£7,000 =",Caught -2,,Chaser by 0:53,£0,,15,False
+06/10/2022,P4,Colin,"£6,000",Jenny Ryan,"-£1,000","£83,000","£6,000 =",Caught -4,,Chaser by 0:53,£0,,15,False
+07/10/2022,P1,Richard,"£9,000",Mark Labbett,"£3,000","£30,000","£30,000 /\",Home +2,14 (team 2),Chaser by 0:09,£0,C,15,False
+07/10/2022,P2,Sue,"£6,000",Mark Labbett,"-£5,000","£25,000","£6,000 =",Caught -3,,Chaser by 0:09,£0,,15,False
+07/10/2022,P3,Jamie,"£6,000",Mark Labbett,"-£10,000","£35,000","£6,000 =",Home +1,4 (team 2),Chaser by 0:09,£0,C,15,False
+07/10/2022,P4,Alexandra,"£3,000",Mark Labbett,"-£15,000","£54,000","£3,000 =",Caught -2,,Chaser by 0:09,£0,,15,False
+10/10/2022,P1,Harry,"£6,000",Anne Hegerty,£600,"£26,000","£6,000 =",Home +2,1 (team 4),Chaser by 0:22,£0,C,15,False
+10/10/2022,P2,Stuart,"£9,000",Anne Hegerty,"£1,000","£35,000","£9,000 =",Home +2,5 (team 4),Chaser by 0:22,£0,C,15,False
+10/10/2022,P3,Sarah,"£3,000",Anne Hegerty,"£1,000","£43,000","£3,000 =",Home +2,2 (team 4),Chaser by 0:22,£0,C,15,False
+10/10/2022,P4,Erica,"£7,000",Anne Hegerty,"-£6,000","£62,000","£7,000 =",Home +1,2 (team 4),Chaser by 0:22,£0,C,15,False
+11/10/2022,P1,Antony,"£4,000",Mark Labbett,"£1,000","£28,000","£4,000 =",Home +3,1 (team 4),Chaser by 0:03,£0,C,15,False
+11/10/2022,P2,Catherine,"£6,000",Mark Labbett,"£1,000","£38,000","£38,000 /\",Home +2,7 (team 4),Chaser by 0:03,£0,C,15,False
+11/10/2022,P3,Heidi,"£4,000",Mark Labbett,"-£4,000","£42,000","£4,000 =",Home +1,3 (team 4),Chaser by 0:03,£0,C,15,False
+11/10/2022,P4,Charlie,"£6,000",Mark Labbett,"-£6,000","£46,000","£6,000 =",Home +5,6 (team 4),Chaser by 0:03,£0,C,15,False
+12/10/2022,P1,Julian,"£7,000",Paul Sinha,"£2,000","£27,000","£7,000 =",Home +2,3 (team 3),Chaser by 0:23,£0,C,15,False
+12/10/2022,P2,Lizzie,"£5,000",Paul Sinha,"£1,000","£35,000","£5,000 =",Home +3,5 (team 3),Chaser by 0:23,£0,C,15,False
+12/10/2022,P3,Jane,"£6,000",Paul Sinha,"-£2,000","£46,000","£6,000 =",Caught -1,,Chaser by 0:23,£0,,15,False
+12/10/2022,P4,Rocky,"£6,000",Paul Sinha,"-£3,000","£54,000","£6,000 =",Home +3,4 (team 3),Chaser by 0:23,£0,C,15,False
+13/10/2022,P1,Emma,"£10,000",Shaun Wallace,"£2,000","£50,000","£10,000 =",Home +4,9 (team 4),Team by 3,"£5,750",T,15,False
+13/10/2022,P2,Joe,"£5,000",Shaun Wallace,"£1,000","£30,000","£5,000 =",Home +2,1 (team 4),Team by 3,"£5,750",T,15,False
+13/10/2022,P3,Jasmine,"£3,000",Shaun Wallace,"£1,000","£40,000","£3,000 =",Home +3,2 (team 4),Team by 3,"£5,750",T,15,False
+13/10/2022,P4,Tom,"£5,000",Shaun Wallace,"-£2,000","£62,000","£5,000 =",Home +3,1 (team 4),Team by 3,"£5,750",T,15,False
+14/10/2022,P1,Ashley,"£5,000",Jenny Ryan,"£1,000","£22,000","£5,000 =",Home +1,8 (team 2),Chaser by 0:25,£0,C,15,False
+14/10/2022,P2,Sally,"£4,000",Jenny Ryan,"£1,000","£35,000","£4,000 =",Home +1,4 (team 2),Chaser by 0:25,£0,C,15,False
+14/10/2022,P3,Lewis,"£4,000",Jenny Ryan,"£1,000","£45,000","£4,000 =",Caught -4,,Chaser by 0:25,£0,,15,False
+14/10/2022,P4,Zoe,"£3,000",Jenny Ryan,"£1,000","£51,000","£1,000 \/",Caught -2,,Chaser by 0:25,£0,,15,False
+17/10/2022,P1,Michael,"£3,000",Anne Hegerty,£300,"£25,000","£3,000 =",Caught -2,,Team by 1,£0,,15,False
+17/10/2022,P2,Anna,"£4,000",Anne Hegerty,"£1,000","£36,000","£4,000 =",Home +4,0 (team 3),Team by 1,"£5,000",T,15,False
+17/10/2022,P3,Guy,"£4,000",Anne Hegerty,"£1,000","£48,000","£4,000 =",Home +1,0 (team 3),Team by 1,"£5,000",T,15,False
+17/10/2022,P4,Kate,"£7,000",Anne Hegerty,"£1,000","£67,000","£7,000 =",Home +1,11 (team 3),Team by 1,"£5,000",T,15,False
+18/10/2022,P1,Nick,"£7,000",Jenny Ryan,"£2,000","£30,000","£2,000 \/",Home +4,11 (team 2),Chaser by 0:07,£0,C,15,False
+18/10/2022,P2,Laura,"£2,000",Jenny Ryan,"£1,000","£35,000","£1,000 \/",Home +2,1 (team 2),Chaser by 0:07,£0,C,15,False
+18/10/2022,P3,Aiden,"£6,000",Jenny Ryan,"£1,000","£50,000","£6,000 =",Caught -2,,Chaser by 0:07,£0,,15,False
+18/10/2022,P4,Vivienne,"£5,000",Jenny Ryan,"£1,000","£97,000","£97,000 /\",Caught -3,,Chaser by 0:07,£0,,15,False
+20/10/2022,P1,Kwame,"£4,000",Mark Labbett,£400,"£20,000","£4,000 =",Caught -4,,Chaser by 0:37,£0,C,15,False
+20/10/2022,P2,Kathy,"£9,000",Mark Labbett,"£2,000","£50,000","£9,000 =",Caught -1,13 (solo ✝),Chaser by 0:37,£0,C,15,False
+20/10/2022,P3,Elizabeth,"£6,000",Mark Labbett,"£2,000","£50,000","£50,000 /\",Caught -1,,Chaser by 0:37,£0,C,15,False
+20/10/2022,P4,Abdullah,"£5,000",Mark Labbett,"£1,000","£100,000","£100,000 /\",Caught -3,,Chaser by 0:37,£0,C,15,False
+21/10/2022,P1,Sarah,"£5,000",Paul Sinha,"£1,000","£25,000","£5,000 =",Home +3,7 (team 4),Chaser by 0:25,£0,C,15,False
+21/10/2022,P2,Finlay,"£7,000",Paul Sinha,"£1,000","£35,000","£7,000 =",Home +2,1 (team 4),Chaser by 0:25,£0,C,15,False
+21/10/2022,P3,Dave,"£4,000",Paul Sinha,"£1,000","£44,000","£4,000 =",Home +1,1 (team 4),Chaser by 0:25,£0,C,15,False
+21/10/2022,P4,Nichola,"£7,000",Paul Sinha,"-£4,000","£50,000","£7,000 =",Home +2,4 (team 4),Chaser by 0:25,£0,C,15,False
+24/10/2022,P1,Belinda,"£6,000",Darragh Ennis,"£1,000","£35,000","£6,000 =",Home +1,6 (team 3),Chaser by 0:45,£0,C,15,False
+24/10/2022,P2,Dan,"£5,000",Darragh Ennis,"£1,000","£45,000","£5,000 =",Home +1,1 (team 3),Chaser by 0:45,£0,C,15,False
+24/10/2022,P3,Paul,"£3,000",Darragh Ennis,"£1,000","£50,000","£3,000 =",Home +2,3 (team 3),Chaser by 0:45,£0,C,15,False
+24/10/2022,P4,Sabine,"£5,000",Darragh Ennis,"-£2,000","£66,000","£5,000 =",Caught -5,,Chaser by 0:45,£0,,15,False
+25/10/2022,P1,Terry,"£4,000",Mark Labbett,£400,"£24,000","£4,000 =",Home +1,7 (team 3),Team by 1,"£4,000",T,15,False
+25/10/2022,P2,Verity,"£3,000",Mark Labbett,"£1,000","£30,000","£3,000 =",Home +2,10 (team 3),Team by 1,"£4,000",T,15,False
+25/10/2022,P3,Liam,"£6,000",Mark Labbett,"£1,000","£40,000","£6,000 =",Caught -4,,Team by 1,£0,,15,False
+25/10/2022,P4,Barbara,"£5,000",Mark Labbett,"-£1,000","£61,000","£5,000 =",Home +3,0 (team 3),Team by 1,"£4,000",T,15,False
+26/10/2022,P1,Difu,"£2,000",Paul Sinha,£200,"£25,000","£2,000 =",Home +2,3 (team 3),Chaser by 0:18,£0,C,15,False
+26/10/2022,P2,Hazel,"£4,000",Paul Sinha,"£1,000","£34,000","£4,000 =",Home +2,5 (team 3),Chaser by 0:18,£0,C,15,False
+26/10/2022,P3,Amy,"£6,000",Paul Sinha,"£1,000","£44,000","£6,000 =",Caught -2,,Chaser by 0:18,£0,,15,False
+26/10/2022,P4,Mark,"£3,000",Paul Sinha,"£1,000","£54,000","£54,000 /\",Home +3,8 (team 3),Chaser by 0:18,£0,C,15,False
+27/10/2022,P1,Lloyd,"£4,000",Shaun Wallace,"£1,000","£24,000","£4,000 =",Home +3,4 (team 3),Team by 1,"£3,000",T,15,False
+27/10/2022,P2,Cate,"£3,000",Shaun Wallace,"£1,000","£36,000","£3,000 =",Caught -4,,Team by 1,£0,,15,False
+27/10/2022,P3,Alison,"£4,000",Shaun Wallace,"£1,000","£48,000","£1,000 \/",Home +1,3 (team 3),Team by 1,"£3,000",T,15,False
+27/10/2022,P4,Hashim,"£4,000",Shaun Wallace,"£1,000","£55,000","£4,000 =",Home +3,4 (team 3),Team by 1,"£3,000",T,15,False
+28/10/2022,P1,Samar,"£5,000",Jenny Ryan,£500,"£25,000","£5,000 =",Home +3,13 (solo),Chaser by 0:19,£0,C,15,False
+28/10/2022,P2,Ayo,"£4,000",Jenny Ryan,"£1,000","£30,000","£30,000 /\",Caught -6,,Chaser by 0:19,£0,,15,False
+28/10/2022,P3,Kellie,"£1,000",Jenny Ryan,£500,"£40,000",£500 \/,Caught -1,,Chaser by 0:19,£0,,15,False
+28/10/2022,P4,Mich,"£4,000",Jenny Ryan,"£1,000","£65,000","£65,000 /\",Caught -1,,Chaser by 0:19,£0,,15,False
+31/10/2022,P1,Michael,"£6,000",Shaun Wallace,£600,"£22,000","£6,000 =",Caught -3,,Chaser by 0:14,£0,,15,False
+31/10/2022,P2,Donna,"£7,000",Shaun Wallace,"£1,000","£27,000","£7,000 =",Home +2,7 (team 2),Chaser by 0:14,£0,C,15,False
+31/10/2022,P3,Louise,"£4,000",Shaun Wallace,"£1,000","£40,000","£1,000 \/",Caught -3,,Chaser by 0:14,£0,,15,False
+31/10/2022,P4,Andy,"£2,000",Shaun Wallace,"-£1,000","£53,000","-£1,000 \/",Home +2,5 (team 2),Chaser by 0:14,£0,C,15,False
+01/11/2022,P1,Joe,"£7,000",Anne Hegerty,"£1,000","£30,000","£7,000 =",Caught -1,,Chaser by 0:34,£0,,15,False
+01/11/2022,P2,Tanya,"£4,000",Anne Hegerty,"£1,000","£35,000","£1,000 \/",Home +4,14 (solo),Chaser by 0:34,£0,C,15,False
+01/11/2022,P3,Felicity,"£4,000",Anne Hegerty,"£1,000","£44,000","£4,000 =",Caught -3,,Chaser by 0:34,£0,,15,False
+01/11/2022,P4,Kamal,"£3,000",Anne Hegerty,"£1,000","£59,000","£59,000 /\",Caught -6,,Chaser by 0:34,£0,,15,False
+03/11/2022,P1,Simon,"£5,000",Mark Labbett,£500,"£24,000","£5,000 =",Home +3,5 (team 3),Team by 4,"£7,333",T,15,False
+03/11/2022,P2,Sharon,"£8,000",Mark Labbett,"£2,000","£43,000","£8,000 =",Home +4,3 (team 3),Team by 4,"£7,333",T,15,False
+03/11/2022,P3,Leah,"£7,000",Mark Labbett,"-£3,000","£50,000","£7,000 =",Caught -2,,Team by 4,£0,,15,False
+03/11/2022,P4,Mayank,"£9,000",Mark Labbett,"-£4,000","£77,000","£9,000 =",Home +3,10 (team 3),Team by 4,"£7,333",T,15,False
+04/11/2022,P1,Danny,"£4,000",Darragh Ennis,£300,"£23,000","£4,000 =",Home +3,1 (team 3),Chaser by 0:21,£0,C,15,False
+04/11/2022,P2,Karen,"£6,000",Darragh Ennis,"£1,000","£36,000","£6,000 =",Home +4,9 (team 3),Chaser by 0:21,£0,C,15,False
+04/11/2022,P3,Carly,"£3,000",Darragh Ennis,"£1,000","£43,000","£1,000 \/",Caught -3,,Chaser by 0:21,£0,,15,False
+04/11/2022,P4,Richard,"£5,000",Darragh Ennis,"-£1,000","£56,000","£5,000 =",Home +2,1 (team 3),Chaser by 0:21,£0,C,15,False
+07/11/2022,P1,Sam,"£3,000",Paul Sinha,"£1,000","£23,000","£1,000 \/",Home +3,14 (team 2),Team by 3,"£1,000",T,15,False
+07/11/2022,P2,Pauline,"£2,000",Paul Sinha,"£1,000","£30,000","£1,000 \/",Home +2,1 (team 2),Team by 3,"£1,000",T,15,False
+07/11/2022,P3,Rachel,"£4,000",Paul Sinha,"-£1,000","£36,000","£4,000 =",Caught -4,,Team by 3,£0,,15,False
+07/11/2022,P4,Mark,"£7,000",Paul Sinha,"-£1,000","£58,000","£58,000 /\",Caught -3,,Team by 3,£0,,15,False
+08/11/2022,P1,Kerry,"£6,000",Jenny Ryan,"£1,000","£24,000","£6,000 =",Home +3,3 (team 3),Chaser by 0:12,£0,C,15,False
+08/11/2022,P2,Ellena,"£2,000",Jenny Ryan,£200,"£30,000","£2,000 =",Caught -3,,Chaser by 0:12,£0,,15,False
+08/11/2022,P3,Alex,"£9,000",Jenny Ryan,"£1,000","£50,000","£50,000 /\",Home +1,9 (team 3),Chaser by 0:12,£0,C,15,False
+08/11/2022,P4,Fraser,"£5,000",Jenny Ryan,"-£16,000","£44,000","£5,000 =",Home +3,5 (team 3),Chaser by 0:12,£0,C,15,False
+09/11/2022,P1,Zeyn,"£5,000",Darragh Ennis,£500,"£25,000","£5,000 =",Caught -5,,Chaser by 0:32,£0,,15,False
+09/11/2022,P2,Trisha,"£4,000",Darragh Ennis,"£1,000","£34,000","£4,000 =",Home +3,5 (team 3),Chaser by 0:32,£0,C,15,False
+09/11/2022,P3,Becky,"£2,000",Darragh Ennis,"£1,000","£42,000","£1,000 \/",Home +4,2 (team 3),Chaser by 0:32,£0,C,15,False
+09/11/2022,P4,Dan,"£7,000",Darragh Ennis,"£1,000","£70,000","£7,000 =",Home +3,2 (team 3),Chaser by 0:32,£0,C,15,False
+10/11/2022,P1,Vickie,"£6,000",Anne Hegerty,"£1,000","£26,000","£6,000 =",Home +1,5 (team 3),Chaser by 0:49,£0,C,15,False
+10/11/2022,P2,Julie,"£6,000",Anne Hegerty,"£1,000","£34,000","£6,000 =",Home +1,5 (team 3),Chaser by 0:49,£0,C,15,False
+10/11/2022,P3,Angus,"£4,000",Anne Hegerty,"-£1,000","£40,000","-£1,000 \/",Home +1,2 (team 3),Chaser by 0:49,£0,C,15,False
+10/11/2022,P4,Tim,"£4,000",Anne Hegerty,"-£3,000","£59,000","£4,000 =",Caught -2,,Chaser by 0:49,£0,,15,False
+11/11/2022,P1,Roy,"£4,000",Shaun Wallace,£400,"£21,000","£4,000 =",Home +3,7 (team 2),Chaser by 0:19,£0,C,15,False
+11/11/2022,P2,Danny,"£5,000",Shaun Wallace,"£1,000","£30,000","£5,000 =",Caught -3,,Chaser by 0:19,£0,,15,False
+11/11/2022,P3,Eileen,"£7,000",Shaun Wallace,"£1,000","£40,000","£7,000 =",Home +2,4 (team 2),Chaser by 0:19,£0,C,15,False
+11/11/2022,P4,Carmen,"£3,000",Shaun Wallace,"-£2,000","£49,000","£3,000 =",Caught -3,,Chaser by 0:19,£0,,15,False
+29/12/2022,P1,Jason,"£5,000",Shaun Wallace,"£1,000","£30,000","£5,000 =",Home +3,4 (team 4),Chaser by 0:24,£0,C,15,False
+29/12/2022,P2,Stephen,"£3,000",Shaun Wallace,"£1,000","£40,000","£3,000 =",Home +3,0 (team 4),Chaser by 0:24,£0,C,15,False
+29/12/2022,P3,Chloe,"£7,000",Shaun Wallace,"£2,000","£55,000","£7,000 =",Home +1,3 (team 4),Chaser by 0:24,£0,C,15,False
+29/12/2022,P4,Grace,"£7,000",Shaun Wallace,"-£3,000","£65,000","£7,000 =",Home +3,6 (team 4),Chaser by 0:24,£0,C,15,False
+02/01/2023,P1,Minh,"£5,000",Mark Labbett,£500,"£25,000","£5,000 =",Home +2,9 (team 4),Chaser by 0:22,£0,C,15,False
+02/01/2023,P2,Del,"£6,000",Mark Labbett,"£1,000","£36,000","£6,000 =",Home +1,2 (team 4),Chaser by 0:22,£0,C,15,False
+02/01/2023,P3,Steve,"£6,000",Mark Labbett,£300,"£43,000","£6,000 =",Home +1,1 (team 4),Chaser by 0:22,£0,C,15,False
+02/01/2023,P4,Katie,"£4,000",Mark Labbett,"-£5,000","£63,000","£4,000 =",Home +4,1 (team 4),Chaser by 0:22,£0,C,15,False
+03/01/2023,P1,Michael,"£6,000",Darragh Ennis,"£1,000","£30,000","£6,000 =",Home +2,8 (team 3),Team by 3,"£4,667",T,15,False
+03/01/2023,P2,Roger,"£5,000",Darragh Ennis,"£1,000","£40,000","£5,000 =",Home +6,3 (team 3),Team by 3,"£4,667",T,15,False
+03/01/2023,P3,Maddie,"£3,000",Darragh Ennis,"£1,000","£45,000","£3,000 =",Caught -3,,Team by 3,£0,,15,False
+03/01/2023,P4,Theresa,"£3,000",Darragh Ennis,"-£2,000","£79,000","£3,000 =",Home +3,3 (team 3),Team by 3,"£4,667",T,15,False
+04/01/2023,P1,Craig,"£7,000",Anne Hegerty,£700,"£27,000","£7,000 =",Home +1,3 (team 3),Chaser by 1:16,£0,C,15,False
+04/01/2023,P2,Ioan,"£3,000",Anne Hegerty,"£1,000","£33,000","£1,000 \/",Home +2,2 (team 3),Chaser by 1:16,£0,C,15,False
+04/01/2023,P3,Penny,"£2,000",Anne Hegerty,£500,"£40,000",£500 \/,Caught -4,,Chaser by 1:16,£0,,15,False
+04/01/2023,P4,Cathy,"£8,000",Anne Hegerty,"£1,000","£82,000","£8,000 =",Home +3,1 (team 3),Chaser by 1:16,£0,C,15,False
+05/01/2023,P1,Chris,"£6,000",Jenny Ryan,"£1,000","£30,000","£6,000 =",Home +3,11 (team 2),Chaser by 0:16,£0,C,15,False
+05/01/2023,P2,Jan,"£7,000",Jenny Ryan,"£1,000","£36,000","£7,000 =",Caught -3,,Chaser by 0:16,£0,,15,False
+05/01/2023,P3,Maya,"£4,000",Jenny Ryan,£400,"£44,000","£4,000 =",Caught -4,,Chaser by 0:16,£0,,15,False
+05/01/2023,P4,Anthony,"£6,000",Jenny Ryan,"£1,000","£74,000","£6,000 =",Home +3,3 (team 2),Chaser by 0:16,£0,C,15,False
+06/01/2023,P1,Trevor,"£6,000",Paul Sinha,"£1,000","£28,000","£6,000 =",Home +1,7 (team 3),Chaser by 0:52,£0,C,15,False
+06/01/2023,P2,Emily,"£5,000",Paul Sinha,"£1,000","£32,000","£5,000 =",Home +1,1 (team 3),Chaser by 0:52,£0,C,15,False
+06/01/2023,P3,Mark,"£6,000",Paul Sinha,"£1,000","£40,000","£6,000 =",Home +3,3 (team 3),Chaser by 0:52,£0,C,15,False
+06/01/2023,P4,Viv,"£4,000",Paul Sinha,"-£5,000","£63,000","£4,000 =",Caught -3,,Chaser by 0:52,£0,,15,False
+09/01/2023,P1,Pete,"£5,000",Mark Labbett,"£1,000","£23,000","£5,000 =",Home +2,5 (team 3),Team by 1,"£4,667",T,15,False
+09/01/2023,P2,Cleo,"£6,000",Mark Labbett,"£1,000","£28,000","£6,000 =",Home +1,3 (team 3),Team by 1,"£4,667",T,15,False
+09/01/2023,P3,Laura,"£3,000",Mark Labbett,"-£2,000","£40,000","£3,000 =",Home +1,7 (team 3),Team by 1,"£4,667",T,15,False
+09/01/2023,P4,Colin,"£4,000",Mark Labbett,"-£4,000","£66,000","£4,000 =",Caught -2,,Team by 1,£0,,15,False
+10/01/2023,P1,Pete,"£10,000",Anne Hegerty,"£2,000","£40,000","£10,000 =",Home +3,11 (team 2),Chaser by 0:16,£0,C,15,False
+10/01/2023,P2,Amy,"£4,000",Anne Hegerty,"£1,000","£30,000","£4,000 =",Caught -5,,Chaser by 0:16,£0,,15,False
+10/01/2023,P3,Tom,"£3,000",Anne Hegerty,"£1,000","£45,000","£3,000 =",Caught -2,,Chaser by 0:16,£0,,15,False
+10/01/2023,P4,Jayne,"£4,000",Anne Hegerty,"-£2,000","£70,000","-£2,000 \/",Home +2,2 (team 2),Chaser by 0:16,£0,C,15,False
+11/01/2023,P1,Dick,"£8,000",Jenny Ryan,"£2,000","£40,000","£8,000 =",Home +2,7 (team 3),Chaser by 0:07,£0,C,15,False
+11/01/2023,P2,Jenny,"£7,000",Jenny Ryan,"£1,000","£55,000","£7,000 =",Home +2,8 (team 3),Chaser by 0:07,£0,C,15,False
+11/01/2023,P3,Evie,"£6,000",Jenny Ryan,"-£2,000","£65,000","£6,000 =",Caught -2,,Chaser by 0:07,£0,,15,False
+11/01/2023,P4,Matthew,"£4,000",Jenny Ryan,"-£3,000","£75,000","£4,000 =",Home +2,3 (team 3),Chaser by 0:07,£0,C,15,False
+12/01/2023,P1,Emily,"£6,000",Paul Sinha,£600,"£23,000","£6,000 =",Home +3,1 (team 3),Chaser by 0:39,£0,C,15,False
+12/01/2023,P2,Sam,"£5,000",Paul Sinha,£500,"£30,000","£5,000 =",Home +2,3 (team 3),Chaser by 0:39,£0,C,15,False
+12/01/2023,P3,Ailsa,"£3,000",Paul Sinha,"-£2,000","£38,000","£3,000 =",Home +2,6 (team 3),Chaser by 0:39,£0,C,15,False
+12/01/2023,P4,Colin,"£5,000",Paul Sinha,"-£4,000","£66,000","£5,000 =",Caught -2,,Chaser by 0:39,£0,,15,False
+13/01/2023,P1,Sharlene,"£5,000",Shaun Wallace,"£1,000","£25,000","£5,000 =",Home +3,6 (team 2),Chaser by 0:32,£0,C,15,False
+13/01/2023,P2,Anjelica,"£4,000",Shaun Wallace,"£1,000","£36,000","£4,000 =",Caught -2,,Chaser by 0:32,£0,,15,False
+13/01/2023,P3,Eric,"£6,000",Shaun Wallace,"£1,000","£48,000","£6,000 =",Caught -5,,Chaser by 0:32,£0,,15,False
+13/01/2023,P4,John,"£7,000",Shaun Wallace,"£1,000","£75,000","£7,000 =",Home +1,4 (team 2),Chaser by 0:32,£0,C,15,False
+16/01/2023,P1,Simon,"£6,000",Anne Hegerty,"£1,000","£40,000","£6,000 =",Home +1,8 (team 3),Chaser by 0:01,£0,C,15,False
+16/01/2023,P2,Kim,"£5,000",Anne Hegerty,"£1,000","£50,000","£5,000 =",Caught -2,,Chaser by 0:01,£0,,15,False
+16/01/2023,P3,Dorett,"£5,000",Anne Hegerty,"£1,000","£64,000","£5,000 =",Home +1,2 (team 3),Chaser by 0:01,£0,C,15,False
+16/01/2023,P4,Jack,"£8,000",Anne Hegerty,"-£2,000","£79,000","£8,000 =",Home +1,4 (team 3),Chaser by 0:01,£0,C,15,False
+17/01/2023,P1,Sarah,"£2,000",Paul Sinha,£200,"£10,000","£2,000 =",Home +1,1 (team 3),Chaser by 0:02,£0,C,15,False
+17/01/2023,P2,Liz,"£5,000",Paul Sinha,"£1,000","£25,000","£5,000 =",Caught -1,,Chaser by 0:02,£0,,15,False
+17/01/2023,P3,Raza,"£7,000",Paul Sinha,"£1,000","£48,000","£7,000 =",Home +1,8 (team 3),Chaser by 0:02,£0,C,15,False
+17/01/2023,P4,Derick,"£5,000",Paul Sinha,"£1,000","£81,000","£5,000 =",Home +1,5 (team 3),Chaser by 0:02,£0,C,15,False
+18/01/2023,P1,Pete,"£8,000",Jenny Ryan,"£2,000","£29,000","£8,000 =",Home +3,4 (team 3),Team by 2,"£6,000",T,15,False
+18/01/2023,P2,Max,"£7,000",Jenny Ryan,"-£1,000","£35,000","£7,000 =",Home +1,1 (team 3),Team by 2,"£6,000",T,15,False
+18/01/2023,P3,Jill,"£10,000",Jenny Ryan,"-£4,000","£50,000","£10,000 =",Caught -1,,Team by 2,£0,,15,False
+18/01/2023,P4,Katie,"£3,000",Jenny Ryan,"-£6,000","£60,000","£3,000 =",Home +3,10 (team 3),Team by 2,"£6,000",T,15,False
+19/01/2023,P1,Matt,"£2,000",Shaun Wallace,£200,"£20,000","£2,000 =",Home +4,1 (team 4),Chaser by 1:03,£0,C,15,False
+19/01/2023,P2,Sangita,"£5,000",Shaun Wallace,"£1,000","£31,000","£5,000 =",Home +1,1 (team 4),Chaser by 1:03,£0,C,15,False
+19/01/2023,P3,Ryan,"£5,000",Shaun Wallace,"£1,000","£42,000","£5,000 =",Home +1,2 (team 4),Chaser by 1:03,£0,C,15,False
+19/01/2023,P4,Johanna,"£6,000",Shaun Wallace,"-£2,000","£68,000","£6,000 =",Home +1,4 (team 4),Chaser by 1:03,£0,C,15,False
+20/01/2023,P1,Elsie,"£6,000",Darragh Ennis,£600,"£26,000","£6,000 =",Caught -5,,Chaser by 0:33,£0,,15,False
+20/01/2023,P2,Ted,"£6,000",Darragh Ennis,"£1,000","£36,000","£6,000 =",Home +2,4 (team 3),Chaser by 0:33,£0,C,15,False
+20/01/2023,P3,Mel,"£4,000",Darragh Ennis,"£1,000","£40,000","£4,000 =",Home +2,5 (team 3),Chaser by 0:33,£0,C,15,False
+20/01/2023,P4,David,"£3,000",Darragh Ennis,"£1,000","£50,000","£1,000 \/",Home +2,2 (team 3),Chaser by 0:33,£0,C,15,False
+23/01/2023,P1,Dan,"£4,000",Paul Sinha,£400,"£23,000","£4,000 =",Home +1,3 (team 3),Chaser by 0:49,£0,C,15,False
+23/01/2023,P2,Nadine,"£3,000",Paul Sinha,£300,"£33,000","£3,000 =",Caught -1,,Chaser by 0:49,£0,,15,False
+23/01/2023,P3,Marcus,"£6,000",Paul Sinha,"£1,000","£40,000","£6,000 =",Home +3,3 (team 3),Chaser by 0:49,£0,C,15,False
+23/01/2023,P4,Analiese,"£5,000",Paul Sinha,"-£1,000","£65,000","£65,000 /\",Home +3,4 (team 3),Chaser by 0:49,£0,C,15,False
+24/01/2023,P1,Alvin,"£5,000",Jenny Ryan,£500,"£23,000","£5,000 =",Home +3,6 (team 3),Chaser by 0:20,£0,C,15,False
+24/01/2023,P2,Liz,"£9,000",Jenny Ryan,"£3,000","£40,000","£9,000 =",Home +1,5 (team 3),Chaser by 0:20,£0,C,15,False
+24/01/2023,P3,Bairbre,"£6,000",Jenny Ryan,"-£2,000","£36,000","£6,000 =",Home +2,3 (team 3),Chaser by 0:20,£0,C,15,False
+24/01/2023,P4,Roy,"£3,000",Jenny Ryan,"-£4,000","£60,000","£3,000 =",Caught -4,,Chaser by 0:20,£0,,15,False
+25/01/2023,P1,Ken,"£6,000",Shaun Wallace,"£1,000","£30,000","£6,000 =",Home +2,5 (team 2),Chaser by 0:37,£0,C,15,False
+25/01/2023,P2,Joslyn,"£3,000",Shaun Wallace,"£1,000","£35,000","£3,000 =",Home +2,9 (team 2),Chaser by 0:37,£0,C,15,False
+25/01/2023,P3,Lizzie,"£2,000",Shaun Wallace,"£1,000","£42,000","£1,000 \/",Caught -2,,Chaser by 0:37,£0,,15,False
+25/01/2023,P4,Harsharn,"£5,000",Shaun Wallace,"£1,000","£66,000","£66,000 /\",Caught -2,,Chaser by 0:37,£0,,15,False
+26/01/2023,P1,Alex,"£4,000",Mark Labbett,"£1,000","£35,000","£1,000 \/",Home +5,8 (team 3),Chaser by 0:24,£0,C,15,False
+26/01/2023,P2,Michele,"£4,000",Mark Labbett,"£1,000","£46,000","£4,000 =",Home +3,1 (team 3),Chaser by 0:24,£0,C,15,False
+26/01/2023,P3,Nicky,"£4,000",Mark Labbett,"£1,000","£60,000","£4,000 =",Caught -4,,Chaser by 0:24,£0,,15,False
+26/01/2023,P4,Joe,"£4,000",Mark Labbett,"£1,000","£85,000","£4,000 =",Home +2,5 (team 3),Chaser by 0:24,£0,C,15,False
+27/01/2023,P1,David,"£6,000",Anne Hegerty,"£1,000","£32,000","£32,000 /\",Home +1,10 (team 4),Team by 5,"£11,750",T,15,False
+27/01/2023,P2,Tony,"£5,000",Anne Hegerty,"£1,000","£45,000","£5,000 =",Home +2,7 (team 4),Team by 5,"£11,750",T,15,False
+27/01/2023,P3,Natalie,"£3,000",Anne Hegerty,"-£5,000","£50,000","£3,000 =",Home +3,0 (team 4),Team by 5,"£11,750",T,15,False
+27/01/2023,P4,Marion,"£7,000",Anne Hegerty,"-£12,000","£80,000","£7,000 =",Home +3,2 (team 4),Team by 5,"£11,750",T,15,False
+30/01/2023,P1,Fabe,"£9,000",Mark Labbett,"£3,000","£40,000","£9,000 =",Home +1,10 (team 2),Chaser by 0:22,£0,C,15,False
+30/01/2023,P2,Robyn,"£7,000",Mark Labbett,"£1,000","£37,000","£1,000 \/",Caught -2,,Chaser by 0:22,£0,,15,False
+30/01/2023,P3,Joe,"£5,000",Mark Labbett,"£1,000","£45,000","£5,000 =",Caught -3,,Chaser by 0:22,£0,,15,False
+30/01/2023,P4,Angelene,"£8,000",Mark Labbett,"-£1,000","£61,000","£8,000 =",Home +3,3 (team 2),Chaser by 0:22,£0,C,15,False
+31/01/2023,P1,Robbie,"£7,000",Anne Hegerty,"£2,000","£30,000","£7,000 =",Caught -3,,Chaser by 0:40,£0,,15,False
+31/01/2023,P2,Jasper,"£6,000",Anne Hegerty,"£1,000","£40,000","£6,000 =",Home +3,2 (team 3),Chaser by 0:40,£0,C,15,False
+31/01/2023,P3,Caroline,"£6,000",Anne Hegerty,"£1,000","£50,000","£6,000 =",Home +2,6 (team 3),Chaser by 0:40,£0,C,15,False
+31/01/2023,P4,Jen,"£5,000",Anne Hegerty,"-£3,000","£63,000","£5,000 =",Home +2,4 (team 3),Chaser by 0:40,£0,C,15,False
+01/02/2023,P1,Sara,"£7,000",Jenny Ryan,£700,"£27,000","£7,000 =",Home +3,7 (team 3),Chaser by 0:42,£0,C,15,False
+01/02/2023,P2,David,"£3,000",Jenny Ryan,"£1,000","£30,000","£3,000 =",Home +2,3 (team 3),Chaser by 0:42,£0,C,15,False
+01/02/2023,P3,Jenny,"£6,000",Jenny Ryan,"£1,000","£45,000","£6,000 =",Home +2,3 (team 3),Chaser by 0:42,£0,C,15,False
+01/02/2023,P4,Brad,"£7,000",Jenny Ryan,"-£4,000","£64,000","£7,000 =",Caught -1,,Chaser by 0:42,£0,,15,False
+02/02/2023,P1,Kelly,"£5,000",Paul Sinha,£500,"£25,000","£5,000 =",Home +1,6 (team 3),Team by 1,"£5,000",T,15,False
+02/02/2023,P2,Nathan,"£6,000",Paul Sinha,"£1,000","£31,000","£6,000 =",Home +3,8 (team 3),Team by 1,"£5,000",T,15,False
+02/02/2023,P3,Ged,"£4,000",Paul Sinha,"-£1,000","£44,000","£4,000 =",Home +1,2 (team 3),Team by 1,"£5,000",T,15,False
+02/02/2023,P4,Hannah,"£2,000",Paul Sinha,"-£3,000","£65,000","£2,000 =",Caught -1,,Team by 1,£0,,15,False
+03/02/2023,P1,Martin,"£4,000",Darragh Ennis,"£1,000","£27,000","£4,000 =",Caught -1,,Chaser by 0:57,£0,,15,False
+03/02/2023,P2,Cathy,"£4,000",Darragh Ennis,"£1,000","£35,000","£4,000 =",Caught -4,,Chaser by 0:57,£0,,15,False
+03/02/2023,P3,Nadine,"£4,000",Darragh Ennis,"£1,000","£44,000","£1,000 \/",Home +3,1 (team 2),Chaser by 0:57,£0,C,15,False
+03/02/2023,P4,Eric,"£4,000",Darragh Ennis,"£1,000","£56,000","£4,000 =",Home +1,10 (team 2),Chaser by 0:57,£0,C,15,False
+06/02/2023,P1,Jim,"£7,000",Paul Sinha,£700,"£27,000","£7,000 =",Caught -1,,Chaser by 0:53,£0,,15,False
+06/02/2023,P2,Chantal,"£6,000",Paul Sinha,"£1,000","£33,000","£6,000 =",Caught -1,,Chaser by 0:53,£0,,15,False
+06/02/2023,P3,Max,"£6,000",Paul Sinha,£50,"£40,000","£6,000 =",Home +3,6 (team 2),Chaser by 0:53,£0,C,15,False
+06/02/2023,P4,Alice,"£4,000",Paul Sinha,"£1,000","£74,000","£4,000 =",Home +2,4 (team 2),Chaser by 0:53,£0,C,15,False
+07/02/2023,P1,Graham,"£7,000",Darragh Ennis,"£1,000","£31,000","£7,000 =",Home +3,8 (team 2),Team by 1,"£5,500",T,15,False
+07/02/2023,P2,Jason,"£4,000",Darragh Ennis,£400,"£35,000","£4,000 =",Home +3,8 (team 2),Team by 1,"£5,500",T,15,False
+07/02/2023,P3,Carole,"£4,000",Darragh Ennis,"-£2,000","£42,000","£4,000 =",Caught -1,,Team by 1,£0,,15,False
+07/02/2023,P4,Riannon,"£5,000",Darragh Ennis,"-£4,000","£64,000","£5,000 =",Caught -2,,Team by 1,£0,,15,False
+08/02/2023,P1,Miles,"£7,000",Mark Labbett,"£2,000","£37,000","£7,000 =",Home +3,17 (solo),Chaser by 0:14,£0,C,15,False
+08/02/2023,P2,April,"£3,000",Mark Labbett,"£1,000","£43,000","£3,000 =",Caught -5,,Chaser by 0:14,£0,,15,False
+08/02/2023,P3,Sam,"£2,000",Mark Labbett,£200,"£55,000","£2,000 =",Caught -4,,Chaser by 0:14,£0,,15,False
+08/02/2023,P4,Ross,"£6,000",Mark Labbett,"£1,000","£63,000","£6,000 =",Caught -5,,Chaser by 0:14,£0,,15,False
+09/02/2023,P1,Stefan,"£6,000",Anne Hegerty,"£1,000","£23,000","£6,000 =",Caught -1,,Chaser by 0:07,£0,,15,False
+09/02/2023,P2,Janet,"£8,000",Anne Hegerty,"£3,000","£50,000","£8,000 =",Home +3,2 (team 3),Chaser by 0:07,£0,C,15,False
+09/02/2023,P3,Alex,"£8,000",Anne Hegerty,"£2,000","£60,000","£8,000 =",Home +3,11 (team 3),Chaser by 0:07,£0,C,15,False
+09/02/2023,P4,Caron,"£8,000",Anne Hegerty,"-£4,000","£74,000","£8,000 =",Home +1,3 (team 3),Chaser by 0:07,£0,C,15,False
+10/02/2023,P1,Eliza,"£4,000",Shaun Wallace,"£1,000","£32,000","£4,000 =",Home +2,4 (team 2),Chaser by 0:36,£0,C,15,False
+10/02/2023,P2,Sarah,"£4,000",Shaun Wallace,"£1,000","£44,000","£4,000 =",Home +2,8 (team 2),Chaser by 0:36,£0,C,15,False
+10/02/2023,P3,Trevor,"£6,000",Shaun Wallace,"£1,000","£60,000","£6,000 =",Caught -3,,Chaser by 0:36,£0,,15,False
+10/02/2023,P4,Zak,£0,Shaun Wallace,£0,"£82,000",£0 \/,Caught -3,,Chaser by 0:36,£0,,15,False
+13/02/2023,P1,Suzi,"£4,000",Darragh Ennis,£400,"£24,000","£4,000 =",Caught -2,,Chaser by 0:57,£0,,15,False
+13/02/2023,P2,Theo,"£3,000",Darragh Ennis,"£1,000","£30,000","£3,000 =",Caught -3,,Chaser by 0:57,£0,,15,False
+13/02/2023,P3,Fey,"£4,000",Darragh Ennis,"£1,000","£40,000","£4,000 =",Home +2,2 (team 2),Chaser by 0:57,£0,C,15,False
+13/02/2023,P4,Alan,"£8,000",Darragh Ennis,"£1,000","£62,000","£8,000 =",Home +4,7 (team 2),Chaser by 0:57,£0,C,15,False
+14/02/2023,P1,Steve,"£6,000",Jenny Ryan,£600,"£32,000","£6,000 =",Home +1,5 (team 2),Chaser by 0:25,£0,C,15,False
+14/02/2023,P2,Lisa,"£5,000",Jenny Ryan,"£1,000","£45,000","£5,000 =",Caught -3,,Chaser by 0:25,£0,,15,False
+14/02/2023,P3,Kristian,"£5,000",Jenny Ryan,"£1,000","£54,000","£5,000 =",Home +2,5 (team 2),Chaser by 0:25,£0,C,15,False
+14/02/2023,P4,Bethany,"£1,000",Jenny Ryan,"-£2,000","£79,000","£1,000 =",Caught -2,,Chaser by 0:25,£0,,15,False
+15/02/2023,P1,Jay,"£6,000",Shaun Wallace,"£1,000","£24,000","£6,000 =",Home +1,1 (team 4),Team by 4,"£4,250",T,15,False
+15/02/2023,P2,Matt,"£1,000",Shaun Wallace,£1,"£30,000","£1,000 =",Home +4,4 (team 4),Team by 4,"£4,250",T,15,False
+15/02/2023,P3,Brad,"£4,000",Shaun Wallace,£400,"£44,000","£4,000 =",Home +2,7 (team 4),Team by 4,"£4,250",T,15,False
+15/02/2023,P4,Carla,"£6,000",Shaun Wallace,"-£3,000","£69,000","£6,000 =",Home +3,4 (team 4),Team by 4,"£4,250",T,15,False
+16/02/2023,P1,Edana,"£9,000",Paul Sinha,"£3,000","£30,000","£9,000 =",Home +3,9 (team 4),Chaser by 0:24,£0,C,15,False
+16/02/2023,P2,Abbie,"£5,000",Paul Sinha,"£1,000","£36,000","£5,000 =",Home +4,1 (team 4),Chaser by 0:24,£0,C,15,False
+16/02/2023,P3,Peter,"£3,000",Paul Sinha,"-£2,000","£44,000","£3,000 =",Home +2,0 (team 4),Chaser by 0:24,£0,C,15,False
+16/02/2023,P4,Paul,"£7,000",Paul Sinha,"-£5,000","£63,000","£7,000 =",Home +3,3 (team 4),Chaser by 0:24,£0,C,15,False
+17/02/2023,P1,Zoe,"£5,000",Anne Hegerty,"£1,000","£30,000","£5,000 =",Caught -1,,Chaser by 0:37,£0,C,15,False
+17/02/2023,P2,David,"£7,000",Anne Hegerty,"£2,000","£45,000","£7,000 =",Caught -2,11 (solo ✝),Chaser by 0:37,£0,C,15,False
+17/02/2023,P3,Diana,"£3,000",Anne Hegerty,"£1,000","£53,000","£3,000 =",Caught -1,,Chaser by 0:37,£0,C,15,False
+17/02/2023,P4,Ibrahim,"£6,000",Anne Hegerty,"£1,000","£90,000","£90,000 /\",Caught -4,,Chaser by 0:37,£0,C,15,False
+20/02/2023,P1,Ivan,"£8,000",Mark Labbett,"£2,000","£30,000","£8,000 =",Home +3,11 (team 3),Team by 5,"£6,333",T,15,False
+20/02/2023,P2,Sabrina,"£2,000",Mark Labbett,"£1,000","£28,000","£2,000 =",Caught -4,,Team by 5,£0,,15,False
+20/02/2023,P3,Michele,"£6,000",Mark Labbett,"£1,000","£40,000","£6,000 =",Home +4,1 (team 3),Team by 5,"£6,333",T,15,False
+20/02/2023,P4,John,"£5,000",Mark Labbett,"-£2,000","£61,000","£5,000 =",Home +3,8 (team 3),Team by 5,"£6,333",T,15,False
+21/02/2023,P1,Jennifer,"£5,000",Anne Hegerty,"£1,000","£20,000","£5,000 =",Caught -2,,Chaser by 0:49,£0,,15,False
+21/02/2023,P2,Martin,"£5,000",Anne Hegerty,"£1,000","£30,000","£5,000 =",Home +2,4 (team 3),Chaser by 0:49,£0,C,15,False
+21/02/2023,P3,Megan,"£1,000",Anne Hegerty,£500,"£40,000",£500 \/,Home +5,2 (team 3),Chaser by 0:49,£0,C,15,False
+21/02/2023,P4,Adam,"£5,000",Anne Hegerty,-£500,"£60,500","£5,000 =",Home +1,4 (team 3),Chaser by 0:49,£0,C,15,False
+22/02/2023,P1,Davinder,"£5,000",Paul Sinha,£500,"£25,000","£5,000 =",Home +1,1 (team 3),Chaser by 0:11,£0,C,15,False
+22/02/2023,P2,Katie,"£5,000",Paul Sinha,"£1,000","£33,000","£5,000 =",Caught -3,,Chaser by 0:11,£0,,15,False
+22/02/2023,P3,Sinead,"£4,000",Paul Sinha,"£1,000","£47,000","£4,000 =",Home +4,6 (team 3),Chaser by 0:11,£0,C,15,False
+22/02/2023,P4,Sam,"£4,000",Paul Sinha,"-£3,000","£81,000","£4,000 =",Home +4,6 (team 3),Chaser by 0:11,£0,C,15,False
+23/02/2023,P1,Nathan,"£5,000",Shaun Wallace,"£1,000","£25,000","£5,000 =",Home +2,10 (team 2),Chaser by 0:04,£0,C,15,False
+23/02/2023,P2,Michelle,"£4,000",Shaun Wallace,"£1,000","£32,000","£4,000 =",Caught -2,,Chaser by 0:04,£0,,15,False
+23/02/2023,P3,Tony,"£3,000",Shaun Wallace,"£1,000","£48,000","£1,000 \/",Home +2,2 (team 2),Chaser by 0:04,£0,C,15,False
+23/02/2023,P4,Rachael,"£4,000",Shaun Wallace,"£1,000","£54,000","£54,000 /\",Caught -6,,Chaser by 0:04,£0,,15,False
+24/02/2023,P1,Mark,"£6,000",Jenny Ryan,"£1,000","£30,000","£30,000 /\",Home +1,12 (solo),Chaser by 0:33,£0,C,15,False
+24/02/2023,P2,Rachael,"£4,000",Jenny Ryan,"-£5,000","£35,000","£4,000 =",Caught -1,,Chaser by 0:33,£0,,15,False
+24/02/2023,P3,Issmyle,"£5,000",Jenny Ryan,"-£10,000","£45,000","£5,000 =",Caught -3,,Chaser by 0:33,£0,,15,False
+24/02/2023,P4,Kate,"£6,000",Jenny Ryan,"-£15,000","£60,000","£6,000 =",Caught -4,,Chaser by 0:33,£0,,15,False
+27/02/2023,P1,Laura,"£4,000",Shaun Wallace,£400,"£24,000","£4,000 =",Caught -1,,Chaser by 0:35,£0,,15,False
+27/02/2023,P2,Jill,"£3,000",Shaun Wallace,"£1,000","£30,000","£1,000 \/",Home +2,1 (team 3),Chaser by 0:35,£0,C,15,False
+27/02/2023,P3,Jermaine,"£3,000",Shaun Wallace,"£1,000","£45,000","£1,000 \/",Home +2,1 (team 3),Chaser by 0:35,£0,C,15,False
+27/02/2023,P4,Dan,"£6,000",Shaun Wallace,"£1,000","£58,000","£6,000 =",Home +2,8 (team 3),Chaser by 0:35,£0,C,15,False
+28/02/2023,P1,Debbie,"£5,000",Paul Sinha,"£1,000","£25,000","£5,000 =",Caught -2,,Chaser by 0:39,£0,,15,False
+28/02/2023,P2,Ian,"£2,000",Paul Sinha,"£1,000","£40,000","£1,000 \/",Home +1,1 (team 3),Chaser by 0:39,£0,C,15,False
+28/02/2023,P3,Joe,"£6,000",Paul Sinha,"£1,000","£50,000","£6,000 =",Home +4,8 (team 3),Chaser by 0:39,£0,C,15,False
+28/02/2023,P4,Kirsty,"£4,000",Paul Sinha,"-£1,000","£63,000","£4,000 =",Home +1,3 (team 3),Chaser by 0:39,£0,C,15,False
+01/03/2023,P1,Janine,"£7,000",Mark Labbett,"£2,000","£30,000","£7,000 =",Caught -3,,Chaser by 1:14,£0,,15,False
+01/03/2023,P2,Thomas,"£5,000",Mark Labbett,"£1,000","£40,000","£5,000 =",Home +3,6 (solo),Chaser by 1:14,£0,C,15,False
+01/03/2023,P3,Carol,"£5,000",Mark Labbett,"£1,000","£50,000","£1,000 \/",Caught -2,,Chaser by 1:14,£0,,15,False
+01/03/2023,P4,Eli,"£6,000",Mark Labbett,"£1,000","£65,000","£6,000 =",Caught -4,,Chaser by 1:14,£0,,15,False
+02/03/2023,P1,Patrick,"£8,000",Jenny Ryan,"£3,000","£24,000","£8,000 =",Home +3,5 (team 3),Team by 1,"£7,000",T,15,False
+02/03/2023,P2,Charlie,"£6,000",Jenny Ryan,"£1,000","£30,000","£6,000 =",Home +2,8 (team 3),Team by 1,"£7,000",T,15,False
+02/03/2023,P3,Gemma,"£6,000",Jenny Ryan,"-£2,000","£36,000","£6,000 =",Caught -4,,Team by 1,£0,,15,False
+02/03/2023,P4,Connor,"£7,000",Jenny Ryan,"-£5,000","£61,000","£7,000 =",Home +1,6 (team 3),Team by 1,"£7,000",T,15,False
+03/03/2023,P1,Tony,"£7,000",Darragh Ennis,"£2,000","£30,000","£7,000 =",Home +2,13 (team 2),Chaser by 0:25,£0,C,15,False
+03/03/2023,P2,Zoe,"£3,000",Darragh Ennis,£300,"£39,000","£3,000 =",Caught -1,,Chaser by 0:25,£0,,15,False
+03/03/2023,P3,Rachael,"£3,000",Darragh Ennis,"£1,000","£48,000","£1,000 \/",Home +2,2 (team 2),Chaser by 0:25,£0,C,15,False
+03/03/2023,P4,Renj,"£8,000",Darragh Ennis,"-£2,000","£67,000","£8,000 =",Caught -3,,Chaser by 0:25,£0,,15,False
+17/04/2023,P1,Bob,"£2,000",Mark Labbett,£200,"£22,000","£2,000 =",Caught -3,,Chaser by 0:08,£0,,15,False
+17/04/2023,P2,Donna,"£2,000",Mark Labbett,"£1,000","£32,000","£1,000 \/",Home +2,1 (team 3),Chaser by 0:08,£0,C,15,False
+17/04/2023,P3,Catherine,"£3,000",Mark Labbett,"£1,000","£43,000","£1,000 \/",Home +4,14 (team 3),Chaser by 0:08,£0,C,15,False
+17/04/2023,P4,Reise,"£4,000",Mark Labbett,"£1,000","£88,000","£1,000 \/",Home +3,0 (team 3),Chaser by 0:08,£0,C,15,False
+18/04/2023,P1,Rana,"£6,000",Darragh Ennis,£600,"£26,000","£6,000 =",Caught -3,,Chaser by 1:03,£0,,15,False
+18/04/2023,P2,Shaun,"£4,000",Darragh Ennis,"£1,000","£40,000","£4,000 =",Caught -1,,Chaser by 1:03,£0,,15,False
+18/04/2023,P3,Diana-Mae,"£3,000",Darragh Ennis,"£1,000","£50,000","£1,000 \/",Home +2,4 (team 2),Chaser by 1:03,£0,C,15,False
+18/04/2023,P4,Dhruti,"£7,000",Darragh Ennis,"£1,000","£69,000","£7,000 =",Home +3,4 (team 2),Chaser by 1:03,£0,C,15,False
+20/04/2023,P1,Jim,"£9,000",Anne Hegerty,"£3,000","£40,000","£9,000 =",Home +3,5 (team 4),Team by 3,"£6,750",T,15,False
+20/04/2023,P2,Anna,"£2,000",Anne Hegerty,"£1,000","£30,000","£2,000 =",Home +3,0 (team 4),Team by 3,"£6,750",T,15,False
+20/04/2023,P3,Pam,"£8,000",Anne Hegerty,"-£2,000","£50,000","£8,000 =",Home +3,6 (team 4),Team by 3,"£6,750",T,15,False
+20/04/2023,P4,Jay,"£8,000",Anne Hegerty,"-£7,000","£61,000","£8,000 =",Home +2,3 (team 4),Team by 3,"£6,750",T,15,False
+21/04/2023,P1,David,"£6,000",Paul Sinha,"£1,000","£25,000","£6,000 =",Home +1,3 (team 4),Chaser by 0:15,£0,C,15,False
+21/04/2023,P2,Eleanor,"£7,000",Paul Sinha,"£1,000","£35,000","£7,000 =",Home +2,6 (team 4),Chaser by 0:15,£0,C,15,False
+21/04/2023,P3,Carol,"£4,000",Paul Sinha,"-£1,000","£44,000","£4,000 =",Home +4,0 (team 4),Chaser by 0:15,£0,C,15,False
+21/04/2023,P4,Rob,"£8,000",Paul Sinha,"-£5,000","£63,000","£8,000 =",Home +4,5 (team 4),Chaser by 0:15,£0,C,15,False
+24/04/2023,P1,Patrick,"£4,000",Paul Sinha,"£1,000","£26,000","£4,000 =",Home +1,1 (team 3),Chaser by 0:19,£0,C,15,False
+24/04/2023,P2,Kerry,"£7,000",Paul Sinha,"£2,000","£35,000","£7,000 =",Home +4,8 (team 3),Chaser by 0:19,£0,C,15,False
+24/04/2023,P3,Meg,"£6,000",Paul Sinha,"£1,000","£40,000","£1,000 \/",Caught -2,,Chaser by 0:19,£0,,15,False
+24/04/2023,P4,Drew,"£7,000",Paul Sinha,"-£2,000","£64,000","£7,000 =",Home +3,5 (team 3),Chaser by 0:19,£0,C,15,False
+25/04/2023,P1,Jon,"£7,000",Anne Hegerty,£700,"£24,000","£7,000 =",Caught -1,,Chaser by 0:20,£0,,15,False
+25/04/2023,P2,Ant,"£5,000",Anne Hegerty,"£1,000","£30,000","£5,000 =",Home +3,3 (team 3),Chaser by 0:20,£0,C,15,False
+25/04/2023,P3,Liz,"£8,000",Anne Hegerty,"£2,000","£40,000","£8,000 =",Home +4,6 (team 3),Chaser by 0:20,£0,C,15,False
+25/04/2023,P4,Carl,"£5,000",Anne Hegerty,"£1,000","£62,000","£5,000 =",Home +1,3 (team 3),Chaser by 0:20,£0,C,15,False
+26/04/2023,P1,Safwaan,"£5,000",Shaun Wallace,"£1,000","£25,000","£5,000 =",Caught -2,,Chaser by 0:25,£0,,15,False
+26/04/2023,P2,Rebecca,"£2,000",Shaun Wallace,£500,"£32,000","£2,000 =",Home +3,4 (team 3),Chaser by 0:25,£0,C,15,False
+26/04/2023,P3,Stan,"£4,000",Shaun Wallace,"£1,000","£50,000","£4,000 =",Home +1,1 (team 3),Chaser by 0:25,£0,C,15,False
+26/04/2023,P4,Maria,"£5,000",Shaun Wallace,"-£1,000","£84,000","£5,000 =",Home +3,8 (team 3),Chaser by 0:25,£0,C,15,False
+28/04/2023,P1,Oscar,"£4,000",Mark Labbett,"£1,000","£36,000","£4,000 =",Home +3,1 (team 4),Team by 7,"£6,250",T,15,False
+28/04/2023,P2,Liz,"£6,000",Mark Labbett,"£1,000","£50,000","£6,000 =",Home +2,2 (team 4),Team by 7,"£6,250",T,15,False
+28/04/2023,P3,Trish,"£8,000",Mark Labbett,"£2,000","£80,000","£8,000 =",Home +2,5 (team 4),Team by 7,"£6,250",T,15,False
+28/04/2023,P4,Chris,"£7,000",Mark Labbett,"-£2,000","£102,000","£7,000 =",Home +2,9 (team 4),Team by 7,"£6,250",T,15,False
+01/05/2023,P1,Dougie,"£4,000",Paul Sinha,"£1,000","£28,000","£28,000 /\",Home +3,8 (team 3),Team by 2,"£14,333",T,15,False
+01/05/2023,P2,Heather,"£5,000",Paul Sinha,"£1,000","£36,000","£36,000 /\",Caught -6,,Team by 2,£0,,15,False
+01/05/2023,P3,Rosy,"£7,000",Paul Sinha,"-£2,000","£55,000","£7,000 =",Home +2,4 (team 3),Team by 2,"£14,333",T,15,False
+01/05/2023,P4,Richard,"£8,000",Paul Sinha,"-£5,000","£65,000","£8,000 =",Home +4,3 (team 3),Team by 2,"£14,333",T,15,False
+02/05/2023,P1,Romzan,"£5,000",Shaun Wallace,"£1,000","£35,000","£5,000 =",Caught -5,,Chaser by 0:55,£0,C,15,False
+02/05/2023,P2,Mapaseka,"£4,000",Shaun Wallace,"£1,000","£50,000","£4,000 =",Caught -2,,Chaser by 0:55,£0,C,15,False
+02/05/2023,P3,Sophie,"£5,000",Shaun Wallace,"£1,000","£75,000","£5,000 =",Caught -4,,Chaser by 0:55,£0,C,15,False
+02/05/2023,P4,Martin,"£10,000",Shaun Wallace,"£2,000","£100,000","£100,000 /\",Caught -4,9 (solo ✝),Chaser by 0:55,£0,C,15,False
+03/05/2023,P1,Robert,"£3,000",Darragh Ennis,"£1,000","£42,000","£3,000 =",Caught -1,,Chaser by 0:39,£0,,15,False
+03/05/2023,P2,Nina,"£6,000",Darragh Ennis,"£1,000","£56,000","£6,000 =",Caught -5,,Chaser by 0:39,£0,,15,False
+03/05/2023,P3,Jack,"£5,000",Darragh Ennis,"£1,000","£70,000","£5,000 =",Home +2,3 (team 2),Chaser by 0:39,£0,C,15,False
+03/05/2023,P4,Helen,"£5,000",Darragh Ennis,"£1,000","£95,000","£5,000 =",Home +2,11 (team 2),Chaser by 0:39,£0,C,15,False
+04/05/2023,P1,Emma,"£7,000",Mark Labbett,"£1,000","£30,000","£7,000 =",Home +2,4 (team 4),Chaser by 0:37,£0,C,15,False
+04/05/2023,P2,Jonathan,"£7,000",Mark Labbett,"£1,000","£40,000","£7,000 =",Home +1,2 (team 4),Chaser by 0:37,£0,C,15,False
+04/05/2023,P3,Khalid,"£7,000",Mark Labbett,"-£1,000","£55,000","£7,000 =",Home +2,2 (team 4),Chaser by 0:37,£0,C,15,False
+04/05/2023,P4,Megan,"£9,000",Mark Labbett,"-£5,000","£69,000","£9,000 =",Home +3,6 (team 4),Chaser by 0:37,£0,C,15,False
+05/05/2023,P1,Deborah,"£7,000",Anne Hegerty,"£1,000","£30,000","£7,000 =",Home +1,10 (team 4),Chaser by 0:14,£0,C,15,False
+05/05/2023,P2,Michelle,"£8,000",Anne Hegerty,"£2,000","£40,000","£8,000 =",Home +1,6 (team 4),Chaser by 0:14,£0,C,15,False
+05/05/2023,P3,Onawale,"£2,000",Anne Hegerty,"£1,000","£45,000","£1,000 \/",Home +2,0 (team 4),Chaser by 0:14,£0,C,15,False
+05/05/2023,P4,Matt,"£9,000",Anne Hegerty,£100,"£64,000","£9,000 =",Home +3,1 (team 4),Chaser by 0:14,£0,C,15,False
+08/05/2023,P1,Cindy,"£8,000",Jenny Ryan,"£2,000","£32,000","£8,000 =",Caught -3,,Chaser by 0:19,£0,,15,False
+08/05/2023,P2,Peter,"£4,000",Jenny Ryan,"£1,000","£40,000","£4,000 =",Home +2,7 (team 2),Chaser by 0:19,£0,C,15,False
+08/05/2023,P3,Mat,"£4,000",Jenny Ryan,£400,"£50,000","£4,000 =",Caught -5,,Chaser by 0:19,£0,,15,False
+08/05/2023,P4,Alice,"£5,000",Jenny Ryan,"£1,000","£66,000","£5,000 =",Home +3,5 (team 2),Chaser by 0:19,£0,C,15,False
+09/05/2023,P1,Laurie,"£4,000",Paul Sinha,"£1,000","£24,000","£4,000 =",Home +1,5 (team 2),Chaser by 0:56,£0,C,15,False
+09/05/2023,P2,Tracey,"£6,000",Paul Sinha,"£1,000","£36,000","£6,000 =",Caught -2,,Chaser by 0:56,£0,,15,False
+09/05/2023,P3,Patrick,"£8,000",Paul Sinha,"£1,000","£46,000","£8,000 =",Caught -2,,Chaser by 0:56,£0,,15,False
+09/05/2023,P4,Seri,"£7,000",Paul Sinha,"£1,000","£66,000","£7,000 =",Home +3,4 (team 2),Chaser by 0:56,£0,C,15,False
+10/05/2023,P1,Eddie,"£8,000",Anne Hegerty,"£2,000","£40,000","£8,000 =",Home +3,3 (team 4),Chaser by 0:53,£0,C,15,False
+10/05/2023,P2,Hanna,"£5,000",Anne Hegerty,"£1,000","£50,000","£5,000 =",Home +2,0 (team 4),Chaser by 0:53,£0,C,15,False
+10/05/2023,P3,Jacque,"£5,000",Anne Hegerty,"£1,000","£75,000","£5,000 =",Home +3,0 (team 4),Chaser by 0:53,£0,C,15,False
+10/05/2023,P4,Steve,"£6,000",Anne Hegerty,"-£2,000","£82,000","£6,000 =",Home +5,7 (team 4),Chaser by 0:53,£0,C,15,False
+11/05/2023,P1,Nick,"£5,000",Darragh Ennis,"£1,000","£25,000","£5,000 =",Home +2,1 (team 4),Team by 4,"£4,500",T,15,False
+11/05/2023,P2,Emma,"£2,000",Darragh Ennis,"£1,000","£32,000","£1,000 \/",Home +3,3 (team 4),Team by 4,"£4,500",T,15,False
+11/05/2023,P3,Fiona,"£5,000",Darragh Ennis,"£1,000","£40,000","£5,000 =",Home +2,7 (team 4),Team by 4,"£4,500",T,15,False
+11/05/2023,P4,Ali,"£7,000",Darragh Ennis,"-£1,000","£69,000","£7,000 =",Home +4,3 (team 4),Team by 4,"£4,500",T,15,False
+12/05/2023,P1,Kevin,"£7,000",Shaun Wallace,"£2,000","£30,000","£7,000 =",Home +3,2 (team 3),Chaser by 0:45,£0,C,15,False
+12/05/2023,P2,Lindsey,"£4,000",Shaun Wallace,"£1,000","£36,000","£1,000 \/",Home +2,2 (team 3),Chaser by 0:45,£0,C,15,False
+12/05/2023,P3,Tracey,"£8,000",Shaun Wallace,"£2,000","£60,000","£8,000 =",Home +1,4 (team 3),Chaser by 0:45,£0,C,15,False
+12/05/2023,P4,James,"£1,000",Shaun Wallace,"-£2,000","£74,000","-£2,000 \/",Caught -1,,Chaser by 0:45,£0,,15,False
+15/05/2023,P1,Gary,"£6,000",Darragh Ennis,£600,"£26,000","£6,000 =",Home +1,6 (team 4),Chaser by 0:13,£0,C,15,False
+15/05/2023,P2,Sarah,"£7,000",Darragh Ennis,"£1,000","£37,000","£7,000 =",Home +1,3 (team 4),Chaser by 0:13,£0,C,15,False
+15/05/2023,P3,Ailsa,"£4,000",Darragh Ennis,"£1,000","£44,000","£44,000 /\",Home +1,0 (team 4),Chaser by 0:13,£0,C,15,False
+15/05/2023,P4,George,"£7,000",Darragh Ennis,"-£9,000","£43,000","-£9,000 \/",Home +3,5 (team 4),Chaser by 0:13,£0,C,15,False
+16/05/2023,P1,Sarah,"£6,000",Shaun Wallace,£600,"£28,000","£6,000 =",Caught -1,,Chaser by 0:12,£0,,15,False
+16/05/2023,P2,Emily,"£5,000",Shaun Wallace,"£1,000","£35,000","£5,000 =",Home +2,4 (team 3),Chaser by 0:12,£0,C,15,False
+16/05/2023,P3,Kenny,"£3,000",Shaun Wallace,"£1,000","£45,000","£1,000 \/",Home +4,0 (team 3),Chaser by 0:12,£0,C,15,False
+16/05/2023,P4,Josh,"£4,000",Shaun Wallace,"£1,000","£60,000","£4,000 =",Home +1,7 (team 3),Chaser by 0:12,£0,C,15,False
+17/05/2023,P1,Gary,"£7,000",Paul Sinha,£700,"£27,000","£7,000 =",Home +3,6 (team 2),Chaser by 0:34,£0,C,15,False
+17/05/2023,P2,Jenny,"£7,000",Paul Sinha,"£1,000","£32,000","£7,000 =",Home +2,6 (team 2),Chaser by 0:34,£0,C,15,False
+17/05/2023,P3,Chester,"£3,000",Paul Sinha,"-£2,000","£40,000","£3,000 =",Caught -5,,Chaser by 0:34,£0,,15,False
+17/05/2023,P4,Roopam,"£8,000",Paul Sinha,"-£5,000","£52,000","£52,000 /\",Caught -3,,Chaser by 0:34,£0,,15,False
+18/05/2023,P1,Miriam,"£6,000",Mark Labbett,"£1,000","£38,000","£6,000 =",Caught -5,,Chaser by 0:42,£0,C,15,False
+18/05/2023,P2,Fintan,"£5,000",Mark Labbett,"£1,000","£50,000","£50,000 /\",Caught -5,,Chaser by 0:42,£0,C,15,False
+18/05/2023,P3,Ewan,"£4,000",Mark Labbett,"£1,000","£60,000","£4,000 =",Caught -4,,Chaser by 0:42,£0,C,15,False
+18/05/2023,P4,Caroline,"£7,000",Mark Labbett,"£1,000","£100,000","£100,000 /\",Caught -4,16 (solo ✝),Chaser by 0:42,£0,C,15,False
+19/05/2023,P1,Mark,"£8,000",Jenny Ryan,"£2,000","£30,000","£30,000 /\",Home +2,13 (team 2),Team by 1,"£17,500",T,15,False
+19/05/2023,P2,James,"£5,000",Jenny Ryan,"-£5,000","£35,000","£5,000 =",Home +1,7 (team 2),Team by 1,"£17,500",T,15,False
+19/05/2023,P3,Lisa,"£7,000",Jenny Ryan,"-£10,000","£40,000","£7,000 =",Caught -2,,Team by 1,£0,,15,False
+19/05/2023,P4,Sue,"£6,000",Jenny Ryan,"-£14,000","£55,000","£6,000 =",Caught -4,,Team by 1,£0,,15,False
+22/05/2023,P1,Gareth,"£4,000",Jenny Ryan,"£1,000","£26,000","£4,000 =",Caught -1,,Chaser by 0:50,£0,,15,False
+22/05/2023,P2,Kat,"£6,000",Jenny Ryan,"£1,000","£33,000","£6,000 =",Home +3,12 (solo),Chaser by 0:50,£0,C,15,False
+22/05/2023,P3,Lauren,"£4,000",Jenny Ryan,"£1,000","£44,000","£4,000 =",Caught -3,,Chaser by 0:50,£0,,15,False
+22/05/2023,P4,Chris,"£4,000",Jenny Ryan,"£1,000","£64,000","£64,000 /\",Caught -4,,Chaser by 0:50,£0,,15,False
+23/05/2023,P1,Terri,"£6,000",Shaun Wallace,"£1,000","£24,000","£6,000 =",Caught -1,,Team by 4,£0,,15,False
+23/05/2023,P2,Diego,"£7,000",Shaun Wallace,"£2,000","£37,000","£7,000 =",Home +2,5 (team 2),Team by 4,"£7,500",T,15,False
+23/05/2023,P3,Claire,"£7,000",Shaun Wallace,"£1,000","£50,000","£7,000 =",Caught -2,,Team by 4,£0,,15,False
+23/05/2023,P4,Jack,"£8,000",Shaun Wallace,"-£1,000","£63,000","£8,000 =",Home +3,6 (team 2),Team by 4,"£7,500",T,15,False
+24/05/2023,P1,Julie,"£10,000",Mark Labbett,"£2,000","£60,000","£10,000 =",Home +2,6 (team 3),Chaser by 0:09,£0,C,15,False
+24/05/2023,P2,Cameron,"£9,000",Mark Labbett,"£2,000","£60,000","£9,000 =",Caught -4,,Chaser by 0:09,£0,,15,False
+24/05/2023,P3,Sue,"£6,000",Mark Labbett,"-£1,000","£70,000","£6,000 =",Home +2,1 (team 3),Chaser by 0:09,£0,C,15,False
+24/05/2023,P4,Darran,"£5,000",Mark Labbett,"-£1,000","£74,000","£74,000 /\",Home +1,6 (team 3),Chaser by 0:09,£0,C,15,False
+25/05/2023,P1,Rachel,"£6,000",Anne Hegerty,"£1,000","£27,000","£6,000 =",Home +3,5 (team 3),Chaser by 0:33,£0,C,15,False
+25/05/2023,P2,Karim,"£5,000",Anne Hegerty,"£1,000","£30,000","£5,000 =",Home +1,3 (team 3),Chaser by 0:33,£0,C,15,False
+25/05/2023,P3,Ru,"£6,000",Anne Hegerty,"-£2,000","£40,000","£6,000 =",Home +2,5 (team 3),Chaser by 0:33,£0,C,15,False
+25/05/2023,P4,Dylan,"£1,000",Anne Hegerty,£0,"£63,000",£0 \/,Caught -1,,Chaser by 0:33,£0,,15,False
+26/05/2023,P1,Lisa,"£7,000",Darragh Ennis,"£1,000","£30,000","£7,000 =",Caught -2,,Chaser by 0:31,£0,,15,False
+26/05/2023,P2,Anil,"£3,000",Darragh Ennis,"£1,000","£40,000","£1,000 \/",Home +4,4 (team 2),Chaser by 0:31,£0,C,15,False
+26/05/2023,P3,Eva,"£3,000",Darragh Ennis,"£1,000","£50,000","£1,000 \/",Home +3,8 (team 2),Chaser by 0:31,£0,C,15,False
+26/05/2023,P4,Brian,"£5,000",Darragh Ennis,"£1,000","£64,000","£64,000 /\",Caught -3,,Chaser by 0:31,£0,,15,False
+29/05/2023,P1,Mike,"£6,000",Anne Hegerty,£600,"£22,000","£6,000 =",Caught -5,,Chaser by 0:54,£0,,15,False
+29/05/2023,P2,Abby,"£5,000",Anne Hegerty,"£1,000","£35,000","£5,000 =",Home +4,9 (team 2),Chaser by 0:54,£0,C,15,False
+29/05/2023,P3,Kelly,"£4,000",Anne Hegerty,£400,"£44,000","£4,000 =",Caught -1,,Chaser by 0:54,£0,,15,False
+29/05/2023,P4,Amit,"£6,000",Anne Hegerty,"£1,000","£55,000","£6,000 =",Home +1,0 (team 2),Chaser by 0:54,£0,C,15,False
+30/05/2023,P1,Colin,"£4,000",Darragh Ennis,"£1,000","£20,000","£4,000 =",Caught -1,,Team by 2,£0,,15,False
+30/05/2023,P2,Talya,"£4,000",Darragh Ennis,"£1,000","£32,000","£4,000 =",Home +4,7 (team 3),Team by 2,"£4,667",T,15,False
+30/05/2023,P3,Joey,"£5,000",Darragh Ennis,"£1,000","£50,000","£5,000 =",Home +1,7 (team 3),Team by 2,"£4,667",T,15,False
+30/05/2023,P4,Elaine,"£5,000",Darragh Ennis,"£1,000","£66,000","£5,000 =",Home +2,1 (team 3),Team by 2,"£4,667",T,15,False
+31/05/2023,P1,John,"£5,000",Shaun Wallace,£500,"£25,000","£25,000 /\",Caught -3,,Chaser by 0:40,£0,,15,False
+31/05/2023,P2,Summer,"£6,000",Shaun Wallace,"£1,000","£32,000","£6,000 =",Home +3,8 (solo),Chaser by 0:40,£0,C,15,False
+31/05/2023,P3,Bobby,"£6,000",Shaun Wallace,£600,"£40,000","£6,000 =",Caught -3,,Chaser by 0:40,£0,,15,False
+31/05/2023,P4,Rachel,"£3,000",Shaun Wallace,"£1,000","£54,000","£3,000 =",Caught -3,,Chaser by 0:40,£0,,15,False
+01/06/2023,P1,Joe,"£3,000",Paul Sinha,£300,"£23,000","£3,000 =",Home +3,1 (team 4),Chaser by 0:17,£0,C,15,False
+01/06/2023,P2,Liz,"£7,000",Paul Sinha,"£1,000","£30,000","£7,000 =",Home +2,7 (team 4),Chaser by 0:17,£0,C,15,False
+01/06/2023,P3,Jack,"£8,000",Paul Sinha,"-£1,000","£40,000","£8,000 =",Home +2,1 (team 4),Chaser by 0:17,£0,C,15,False
+01/06/2023,P4,Sheryl,"£7,000",Paul Sinha,"-£6,000","£62,000","£7,000 =",Home +1,7 (team 4),Chaser by 0:17,£0,C,15,False
+05/06/2023,P1,Jordan,"£4,000",Darragh Ennis,£400,"£20,000","£4,000 =",Caught -2,,Chaser by 0:32,£0,,15,False
+05/06/2023,P2,Claire,"£5,000",Darragh Ennis,"£1,000","£30,000","£5,000 =",Caught -1,,Chaser by 0:32,£0,,15,False
+05/06/2023,P3,Chris,"£5,000",Darragh Ennis,"£1,000","£40,000","£5,000 =",Home +3,11 (team 2),Chaser by 0:32,£0,C,15,False
+05/06/2023,P4,Natasha,"£4,000",Darragh Ennis,"£1,000","£75,000","£4,000 =",Home +2,3 (team 2),Chaser by 0:32,£0,C,15,False
+06/06/2023,P1,Rob,"£2,000",Jenny Ryan,£200,"£32,000","£2,000 =",Home +3,2 (team 4),Chaser by 0:10,£0,C,15,False
+06/06/2023,P2,Dania,"£3,000",Jenny Ryan,"£1,000","£47,000","£3,000 =",Home +1,0 (team 4),Chaser by 0:10,£0,C,15,False
+06/06/2023,P3,Steph,"£6,000",Jenny Ryan,£600,"£60,000","£6,000 =",Home +1,2 (team 4),Chaser by 0:10,£0,C,15,False
+06/06/2023,P4,Naail,"£8,000",Jenny Ryan,"-£1,000","£89,000","£8,000 =",Home +3,11 (team 4),Chaser by 0:10,£0,C,15,False
+07/06/2023,P1,Darran,"£8,000",Paul Sinha,"£2,000","£28,000","£8,000 =",Home +3,4 (team 3),Team by 2,"£7,667",T,15,False
+07/06/2023,P2,Sam,"£7,000",Paul Sinha,"£1,000","£35,000","£7,000 =",Home +2,8 (team 3),Team by 2,"£7,667",T,15,False
+07/06/2023,P3,Lily,"£3,000",Paul Sinha,"£1,000","£43,000","£3,000 =",Caught -4,,Team by 2,£0,,15,False
+07/06/2023,P4,James,"£8,000",Paul Sinha,"-£3,000","£60,000","£8,000 =",Home +4,6 (team 3),Team by 2,"£7,667",T,15,False
+08/06/2023,P1,Gill,"£4,000",Shaun Wallace,"£1,000","£40,000","£4,000 =",Home +1,3 (team 3),Chaser by 0:49,£0,C,15,False
+08/06/2023,P2,Edward,"£2,000",Shaun Wallace,£200,"£48,000","£2,000 =",Home +3,2 (team 3),Chaser by 0:49,£0,C,15,False
+08/06/2023,P3,Aiden,"£6,000",Shaun Wallace,"£1,000","£60,000","£6,000 =",Home +2,4 (team 3),Chaser by 0:49,£0,C,15,False
+08/06/2023,P4,Rushelle,"£4,000",Shaun Wallace,"-£2,000","£68,000","£4,000 =",Caught -4,,Chaser by 0:49,£0,,15,False
+19/04/2023,P1,Andrea,"£6,000",Jenny Ryan,"£3,000","£60,000","£6,000 =",Caught -3,,Chaser by 0:33,£0,,16,False
+19/04/2023,P2,Val,"£5,000",Jenny Ryan,"£2,000","£94,000","£5,000 =",Home +3,1 (team 3),Chaser by 0:33,£0,C,16,False
+19/04/2023,P3,Nabeel,"£1,000",Jenny Ryan,£0,"£55,000","£1,000 =",Home +1,1 (team 3),Chaser by 0:33,£0,C,16,False
+19/04/2023,P4,Meng,"£5,000",Jenny Ryan,"£2,000","£94,000","£5,000 =",Home +1,12 (team 3),Chaser by 0:33,£0,C,16,False
+27/04/2023,P1,Gareth,"£7,000",Jenny Ryan,"£3,000","£40,000","£7,000 =",Caught -1,,Chaser by 0:10,£0,,16,False
+27/04/2023,P2,Adam,"£6,000",Jenny Ryan,"£2,000","£50,000","£6,000 =",Home +3,11 (team 3),Chaser by 0:10,£0,C,16,False
+27/04/2023,P3,Vicki,"£8,000",Jenny Ryan,"£4,000","£70,000","£4,000 \/",Home +2,4 (team 3),Chaser by 0:10,£0,C,16,False
+27/04/2023,P4,Gillian,"£5,000",Jenny Ryan,"-£1,000","£80,000","£5,000 =",Home +2,2 (team 3),Chaser by 0:10,£0,C,16,False
 29/10/2011,P1,Sally Lindsay,"£4,000",Mark Labbett,"£2,000","£30,000","£4,000 =",Home +3,6 (team 4),Team by 4,"£14,000",T,0,True
 29/10/2011,P2,Shaun Williamson,"£10,000",Mark Labbett,"£2,000","£50,000","£50,000 /\",Home +3,10 (team 4),Team by 4,"£14,000",T,0,True
 29/10/2011,P3,Barry McGuigan,"£4,000",Mark Labbett,"£1,000","£40,000","£1,000 \/",Home +3,0 (team 4),Team by 4,"£14,000",T,0,True
@@ -8083,3 +8595,51 @@ Date,PlayerNo.,Name,CashBuilder,Chaser,LowerOffer,HigherOffer,ChosenOffer,HTHRes
 28/08/2022,P2,David Arnold,"£8,000",Darragh Ennis,"£2,000","£80,000","£8,000 =",Home +2,5 (team 4),Team by 1,"£4,750",T,0,True
 28/08/2022,P3,Matty Lee,"£3,000",Darragh Ennis,"£1,000","£87,000","£3,000 =",Home +3,1 (team 4),Team by 1,"£4,750",T,0,True
 28/08/2022,P4,Basil Brush,"£3,000",Darragh Ennis,"£1,000","£144,000","£3,000 =",Home +4,2 (team 4),Team by 1,"£4,750",T,0,True
+04/09/2022,P1,Julia Goulding,"£8,000",Paul Sinha,"£2,000","£45,000","£8,000 =",Home +1,7 (team 3),Chaser by 0:38,£0,C,0,True
+04/09/2022,P2,Oz Clarke,"£5,000",Paul Sinha,"£1,000","£55,000","£5,000 =",Home +3,2 (team 3),Chaser by 0:38,£0,C,0,True
+04/09/2022,P3,Laura Hamilton,"£3,000",Paul Sinha,"£1,000","£75,000","£75,000 /\",Caught -4,,Chaser by 0:38,£0,,0,True
+04/09/2022,P4,Mr Motivator,"£4,000",Paul Sinha,"£1,000","£87,000","£4,000 =",Home +1,2 (team 3),Chaser by 0:38,£0,C,0,True
+29/10/2022,P1,Chizzy Akudolu,"£9,000",Mark Labbett,"£3,000","£50,000","£9,000 =",Home +2,7 (team 2),Team by 9,"£8,000",T,0,True
+29/10/2022,P2,Andrew Pierce,"£4,000",Mark Labbett,"£1,000","£60,000","£4,000 =",Caught -1,,Team by 9,£0,,0,True
+29/10/2022,P3,Sonja McLaughlan,"£6,000",Mark Labbett,"£1,000","£70,000","£6,000 =",Caught -1,,Team by 9,£0,,0,True
+29/10/2022,P4,Jack Carroll,"£7,000",Mark Labbett,"£1,000","£81,000","£7,000 =",Home +3,12 (team 2),Team by 9,"£8,000",T,0,True
+05/11/2022,P1,Cheryl Baker,"£8,000",Jenny Ryan,"£3,000","£125,000","£8,000 =",Home +4,0 (team 3),Chaser by 0:03,£0,C,0,True
+05/11/2022,P2,Laura Tobin,"£7,000",Jenny Ryan,"£2,000","£125,000","£125,000 /\",Home +2,12 (team 3),Chaser by 0:03,£0,C,0,True
+05/11/2022,P3,Jason Bell,"£5,000",Jenny Ryan,"£1,000","£125,000","£5,000 =",Caught -3,,Chaser by 0:03,£0,,0,True
+05/11/2022,P4,Mark Steel,"£9,000",Jenny Ryan,"£2,000","£125,000","£9,000 =",Home +2,4 (team 3),Chaser by 0:03,£0,C,0,True
+25/12/2022,P1,Sair Khan,"£4,000",Darragh Ennis,"£1,000","£40,000","£4,000 =",Caught -4,,Team by 4,£0,,0,True
+25/12/2022,P2,Zoe Williams,"£6,000",Paul Sinha,"£2,000","£60,000","£6,000 =",Home +1,9 (team 3),Team by 4,"£33,000",T,0,True
+25/12/2022,P3,Danny O'Carroll,"£2,000",Shaun Wallace,"£1,000","£70,000","£1,000 \/",Home +5,1 (team 3),Team by 4,"£33,000",T,0,True
+25/12/2022,P4,Charlotte Church,"£8,000",Mark Labbett,"£2,000","£92,000","£92,000 /\",Home +1,6 (team 3),Team by 4,"£33,000",T,0,True
+26/12/2022,P1,Kadeena Cox,"£4,000",Shaun Wallace,"£1,000","£45,000","£4,000 =",Caught -3,,Chaser by 0:35,£0,,0,True
+26/12/2022,P2,Vicki Michelle,"£7,000",Mark Labbett,"£2,000","£60,000","£7,000 =",Home +3,1 (team 3),Chaser by 0:35,£0,C,0,True
+26/12/2022,P3,Radzi Chinyanganya,"£3,000",Anne Hegerty,"£1,000","£75,000","£3,000 =",Home +1,10 (team 3),Chaser by 0:35,£0,C,0,True
+26/12/2022,P4,Bradley Wiggins,"£4,000",Darragh Ennis,"£1,000","£125,000","£4,000 =",Home +2,2 (team 3),Chaser by 0:35,£0,C,0,True
+15/01/2023,P1,Melvin Odoom,"£8,000",Anne Hegerty,"£2,000","£50,000","£8,000 =",Home +2,2 (team 2),Chaser by 0:58,£0,C,0,True
+15/01/2023,P2,Carl Fogarty,"£6,000",Anne Hegerty,"£1,000","£65,000","£6,000 =",Caught -2,,Chaser by 0:58,£0,,0,True
+15/01/2023,P3,Louis Smith,"£5,000",Anne Hegerty,"£1,000","£75,000","£5,000 =",Caught -1,,Chaser by 0:58,£0,,0,True
+15/01/2023,P4,Bonnie Langford,"£8,000",Anne Hegerty,"£2,000","£92,000","£8,000 =",Home +1,8 (team 2),Chaser by 0:58,£0,C,0,True
+19/03/2023,P1,Jayde Adams,"£2,000",Paul Sinha,"£1,000","£50,000","£2,000 =",Caught -2,,Chaser by 0:29,£0,,0,True
+19/03/2023,P2,Tony Cottee,"£4,000",Paul Sinha,"£1,000","£70,000","£4,000 =",Home +4,10 (solo),Chaser by 0:29,£0,C,0,True
+19/03/2023,P3,Naughty Boy,"£3,000",Paul Sinha,"£1,000","£80,000","£80,000 /\",Caught -4,,Chaser by 0:29,£0,,0,True
+19/03/2023,P4,The Vivienne,"£4,000",Paul Sinha,"£1,000","£96,000","£4,000 =",Caught -4,,Chaser by 0:29,£0,,0,True
+23/04/2023,P1,Christine Ohuruogu,"£1,000",Anne Hegerty,£500,"£25,000","£1,000 =",Home +1,4 (team 3),Chaser by 0:42,£0,C,0,True
+23/04/2023,P2,Max George,"£7,000",Anne Hegerty,"£2,000","£50,000","£7,000 =",Home +3,6 (team 3),Chaser by 0:42,£0,C,0,True
+23/04/2023,P3,Maisie Smith,"£5,000",Anne Hegerty,"£1,000","£70,000","£5,000 =",Home +4,3 (team 3),Chaser by 0:42,£0,C,0,True
+23/04/2023,P4,Owain Wyn Evans,"£4,000",Anne Hegerty,"£1,000","£87,000","£87,000 /\",Caught -4,,Chaser by 0:42,£0,,0,True
+30/04/2023,P1,Ortis Deley,"£4,000",Shaun Wallace,"£1,000","£40,000","£4,000 =",Home +3,5 (team 4),Chaser by 0:31,£0,C,0,True
+30/04/2023,P2,Maggie Aderin-Pocock,"£3,000",Shaun Wallace,"£1,000","£60,000","£3,000 =",Home +3,1 (team 4),Chaser by 0:31,£0,C,0,True
+30/04/2023,P3,Graeme Hall,"£6,000",Shaun Wallace,"£2,000","£90,000","£90,000 /\",Home +4,2 (team 4),Chaser by 0:31,£0,C,0,True
+30/04/2023,P4,Sarah Millican,"£7,000",Shaun Wallace,"£3,000","£103,000","£3,000 \/",Home +4,5 (team 4),Chaser by 0:31,£0,C,0,True
+07/05/2023,P1,David James,"£10,000",Paul Sinha,"£5,000","£100,000","£10,000 =",Home +4,8 (team 3),Chaser by 0:28,£0,C,0,True
+07/05/2023,P2,Lucrezia Millarini,"£7,000",Paul Sinha,"£2,000","£120,000","£7,000 =",Caught -2,,Chaser by 0:28,£0,,0,True
+07/05/2023,P3,Myles Stephenson,"£6,000",Paul Sinha,"£2,000","£150,000","£2,000 \/",Home +5,3 (team 3),Chaser by 0:28,£0,C,0,True
+07/05/2023,P4,Joe Sugg,"£8,000",Paul Sinha,"£1,000","£201,000","£201,000 /\",Home +1,4 (team 3),Chaser by 0:28,£0,C,0,True
+21/05/2023,P1,Danny John-Jules,"£4,000",Jenny Ryan,"£1,000","£40,000","£4,000 =",Home +1,2 (team 3),Chaser by 0:11,£0,C,0,True
+21/05/2023,P2,Yinka Bokinni,"£7,000",Jenny Ryan,"£2,000","£70,000","£7,000 =",Home +2,9 (team 3),Chaser by 0:11,£0,C,0,True
+21/05/2023,P3,Tom Bosworth,"£6,000",Jenny Ryan,"£2,000","£79,000","£6,000 =",Home +2,3 (team 3),Chaser by 0:11,£0,C,0,True
+21/05/2023,P4,Eamonn Holmes,"£6,000",Jenny Ryan,"£1,000","£143,000","£143,000 /\",Caught -2,,Chaser by 0:11,£0,,0,True
+09/06/2023,P1,Alex Brooker,"£9,000",Anne Hegerty,"£3,000","£45,000","£9,000 =",Home +3,2 (team 4),Team by 4,"£42,250",T,0,True
+09/06/2023,P2,Kyle Walker,"£4,000",Anne Hegerty,"£1,000","£90,000","£4,000 =",Home +2,1 (team 4),Team by 4,"£42,250",T,0,True
+09/06/2023,P3,Lynsey Hipgrave,"£6,000",Anne Hegerty,"£1,000","£120,000","£6,000 =",Home +2,2 (team 4),Team by 4,"£42,250",T,0,True
+09/06/2023,P4,Dermot O'Leary,"£6,000",Anne Hegerty,"£3,000","£150,000","£150,000 /\",Home +2,12 (team 4),Team by 4,"£42,250",T,0,True
